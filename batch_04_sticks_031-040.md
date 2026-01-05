@@ -416,13 +416,13 @@ Poor Fortune (Unfavorable / Caution)
 
 **Sacred Meaning:**
 - **Health:** urgent and severe
-- **Wealth:** (not listed separately)
-- **Reputation:** (not listed separately)
+- **Wealth:** (not addressed)
+- **Reputation:** (not addressed)
 - **Travel / Movement:** not yet returned
 - **Marriage:** will not succeed
 - **Misfortune:** many strange dreams
 - **Blessings:** must ask the gods
-- **Litigation:** (not listed separately)
+- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Crickets chirping alone, guarding the solitary curtain,
@@ -443,13 +443,13 @@ Hạ Hạ (Không thuận / Cần đề phòng)
 
 **Sacred Meaning:**
 - **Sức khỏe:** cấp bách và nghiêm trọng
-- **Tài lộc:** (không liệt kê riêng)
-- **Danh tiếng:** (không liệt kê riêng)
+- **Tài lộc:** (không đề cập)
+- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** chưa trở về
 - **Hôn nhân:** sẽ không thành công
 - **Tai họa:** nhiều giấc mơ kỳ lạ
 - **Phúc lộc:** phải hỏi thần linh
-- **Kiện tụng:** (không liệt kê riêng)
+- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Dế kêu đơn độc, canh giữ màn trướng cô đơn,
@@ -532,7 +532,7 @@ Upper Fortune (Good / Auspicious)
 
 **Sacred Meaning:**
 - **Health:** no disaster
-- **Wealth:** (not listed separately)
+- **Wealth:** (not addressed)
 - **Reputation:** will achieve success
 - **Travel / Movement:** returns
 - **Marriage:** suitable and settled
@@ -559,7 +559,7 @@ Thượng Cát (Tốt / Cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** không tai họa
-- **Tài lộc:** (không liệt kê riêng)
+- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** sẽ đạt được thành công
 - **Người đi xa / Di chuyển:** quay về
 - **Hôn nhân:** thích hợp và ổn định

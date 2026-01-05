@@ -25,10 +25,14 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - ✅ Batch 04 (Sticks 31-40) - Verified and Confirmed
   - File: `batch_04_sticks_031-040.md`
   - Major corrections: Stick #32 sacred meanings, Stick #38 poem completely wrong (OCR error)
+- ✅ Batch 05 (Sticks 41-50) - Verified and Confirmed
+  - File: `batch_05_sticks_041-050.md`
+  - Major corrections: Stick #41 poem "遇鼠逢牛三弄笛" (rat/ox zodiac timing), Stick #47 poem "把心扪" (examine your heart), Stick #49 poem "鬼门关" (Ghost Gate Pass)
+- ✅ Batch 06 (Sticks 51-60) - Verified and Confirmed
+  - File: `batch_06_sticks_051-060.md`
+  - Major corrections: Stick #51 poem "水到渠成" (wu wei principle), Stick #56 poem "心头理曲强词遮" (dishonesty warning), Stick #59 poem "香烟未断续螟蛉" (adopted heirs), Stick #60 poem "丹诏槐黄" (imperial decree/locust-yellow robes)
 
 ### Pending Batches:
-- ⏳ Batch 05 (Sticks 41-50)
-- ⏳ Batch 06 (Sticks 51-60)
 - ⏳ Batch 07 (Sticks 61-70)
 - ⏳ Batch 08 (Sticks 71-80)
 - ⏳ Batch 09 (Sticks 81-90)
@@ -43,6 +47,8 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - Stick #25 zodiac timing confirmed: 玉兔金鸡 = Rabbit/Rooster years or months (卯酉)
 - **CRITICAL:** After completing each batch translation, IMMEDIATELY web search to verify all call-outs before presenting to user
 - Design template verified: Stick #1 demo confirms translations fit perfectly in the final template layout
+- **Terminology standardized:** Missing sacred meanings use "(not addressed)" in English and "(không đề cập)" in Vietnamese
+- **OCR accuracy:** ~83% of sticks matched standard texts; ~17% required major corrections via web verification
 
 ---
 
@@ -196,6 +202,8 @@ STICK #[NUMBER]
 - **Misfortune:** [translation]
 - **Blessings:** [translation]
 - **Litigation:** [translation]
+
+**Note:** If a sacred meaning category is not present on the original stick, use "(not addressed)" in English and "(không đề cập)" in Vietnamese.
 
 **Fortune Poem:**
 [Line 1]
