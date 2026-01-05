@@ -8,6 +8,44 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 
 ---
 
+## Progress Tracker
+
+**Status:** Phase 1 - Translation in progress
+
+### Completed Batches:
+- ✅ Batch 01 (Sticks 1-10) - Verified and Confirmed
+  - File: `batch_01_sticks_001-010.md`
+  - Major corrections: Stick #1 poem completely wrong (OCR error), Stick #4 litigation meaning
+- ✅ Batch 02 (Sticks 11-20) - Verified and Confirmed
+  - File: `batch_02_sticks_011-020.md`
+  - Major corrections: Stick #20 poem "十八滩头" (Eighteen Rapids) not "十八到頭"
+- ✅ Batch 03 (Sticks 21-30) - Verified and Confirmed
+  - File: `batch_03_sticks_021-030.md`
+  - Major corrections: Sticks #21, #27, #30 (OCR errors corrected via web verification)
+- ✅ Batch 04 (Sticks 31-40) - Verified and Confirmed
+  - File: `batch_04_sticks_031-040.md`
+  - Major corrections: Stick #32 sacred meanings, Stick #38 poem completely wrong (OCR error)
+
+### Pending Batches:
+- ⏳ Batch 05 (Sticks 41-50)
+- ⏳ Batch 06 (Sticks 51-60)
+- ⏳ Batch 07 (Sticks 61-70)
+- ⏳ Batch 08 (Sticks 71-80)
+- ⏳ Batch 09 (Sticks 81-90)
+- ⏳ Batch 10 (Sticks 91-100)
+
+### Translation Notes & Learnings:
+- Format updated: Removed "**Fortune Rating:**" label, showing only rating and subtitle directly
+- All interpretations tailored to match fortune level tone (positive for good fortunes, cautionary but constructive for poor fortunes)
+- Always maintain standard format order: Sacred Meaning before Fortune Poem
+- Stick #11 contradiction verified: Poor fortune with optimistic poem is intentional (warns against surface appearances)
+- When OCR unclear, cross-reference with web sources for standard sign text
+- Stick #25 zodiac timing confirmed: 玉兔金鸡 = Rabbit/Rooster years or months (卯酉)
+- **CRITICAL:** After completing each batch translation, IMMEDIATELY web search to verify all call-outs before presenting to user
+- Design template verified: Stick #1 demo confirms translations fit perfectly in the final template layout
+
+---
+
 ## Source Material
 
 - 100 JPG images of fortune sticks from Thien Hau Temple (Los Angeles)
@@ -26,7 +64,7 @@ From each image, extract:
 - **Sacred meaning section** (聖意) - 8 items
 - **Poem** - 4 lines of classical Chinese (read top-to-bottom, right-to-left)
 
-**If OCR is unclear:** Ask the user for clarification. Do not guess.
+**If OCR is unclear:** Web search for the standard text of that specific sign (e.g., "关帝灵签第65签") to verify. Do not guess.
 
 ---
 
@@ -147,7 +185,7 @@ STICK #[NUMBER]
 
 ### ENGLISH TRANSLATION
 
-**Fortune Rating:** [Rating] ([Subtitle])
+[Rating] ([Subtitle])
 
 **Sacred Meaning:**
 - **Health:** [translation]
@@ -174,7 +212,7 @@ STICK #[NUMBER]
 
 ### VIETNAMESE TRANSLATION
 
-**Fortune Rating:** [Rating] ([Subtitle])
+[Rating] ([Subtitle])
 
 **Sacred Meaning:**
 - **Sức khỏe:** [translation]
@@ -199,8 +237,15 @@ STICK #[NUMBER]
 
 ---
 
-### CALL-OUTS (if any)
-[List any uncertainties, OCR issues, translation choices that need confirmation]
+### CALL-OUTS
+
+**After completing the batch:**
+1. Review all your call-outs and uncertainties
+2. Web search each one to verify against standard texts (use queries like "关帝灵签第[NUMBER]签")
+3. Apply corrections based on verification
+4. Update this section to state "All call-outs verified and corrected:" with a summary of what was verified/corrected
+
+[List any initial uncertainties, then update with verification results]
 ```
 
 ---
