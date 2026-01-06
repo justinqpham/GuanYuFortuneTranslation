@@ -37,9 +37,11 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - ✅ Batch 08 (Sticks 71-80) - Verified and Confirmed
   - File: `batch_08_sticks_071-080.md`
   - Major corrections: Stick #73 completely wrong text with reversed lines "忆昔兰房分半钗", Stick #75 poem "富与贫" (rich vs poor, not rich vs noble)
+- ✅ Batch 09 (Sticks 81-90) - Verified and Confirmed
+  - File: `batch_09_sticks_081-090.md`
+  - Major corrections: Stick #81 poem "谋赖欺心他自奸" (deceptive scheming), Stick #84 poem "个中事绪" and "长舌妇人休酷听", Stick #85 poem "风雨正潇潇" (bleak wind/rain), Stick #87 poem "藩篱剖破" (barriers broken), Stick #90 poem "崆峒城" (Kongtong City)
 
 ### Pending Batches:
-- ⏳ Batch 09 (Sticks 81-90)
 - ⏳ Batch 10 (Sticks 91-100)
 
 ### Translation Notes & Learnings:
