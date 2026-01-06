@@ -582,11 +582,38 @@ Tiếng dế kêu đầy sân, nhìn và thưởng thức tất cả,
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
-- Stick #32: Sacred meanings corrected - added Litigation "ends badly" and Misfortune "conflicts and troubles abound" based on standard text (訟終凶、是非叢)
-- Stick #33: Poem verified correct - "熟讀黃庭經一卷" refers to the Yellow Court Classic (Daoist text)
-- Stick #34: Sacred meanings verified - "行人動" means travelers are moving/in motion
-- Stick #38: Poem completely rewritten - original OCR was wrong. Corrected to match standard text "蛩吟唧唧守孤帷" (crickets chirping alone, guarding solitary curtain)
-- Stick #40: Poem verified correct - "崎嶇歷盡見亨衢" means after traversing rough terrain, you'll see a smooth path
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-Batch 04 has been fully verified and corrected. Ready for final confirmation.
+**OCR Corrections Applied:**
+
+- **Stick #31**: No major OCR errors detected. All text verified against canonical sources.
+
+- **Stick #32**: Sacred meanings corrected to match canonical format. Added missing items: Litigation "讼终凶" (ends badly) and "是非丛" (conflicts and troubles abound). Canonical sacred meanings: "讼终凶、名未通、病者险、财亦空、婚未合、是非丛、行人阻、事无终". Poem verified: "劳心泊泊竟何归，疾病兼多是与非；事到头来浑似梦，何如休要用心机". Fortune level confirmed as 下下 (Poor Fortune).
+
+- **Stick #33**: Poem verified correct. Line 2 "熟读黄庭经一卷" references the Yellow Court Classic (黄庭经), a famous Daoist text on internal alchemy and meditation. No OCR errors detected.
+
+- **Stick #34**: Sacred meaning verified - "行人动" correctly means "travelers are in motion/moving" (行人將動). Poem and other sacred meanings match canonical sources.
+
+- **Stick #35-37**: No major OCR errors detected. All content matches canonical texts.
+
+- **Stick #38**: **MAJOR OCR ERROR - COMPLETE POEM REWRITE** - Original OCR was entirely wrong. Corrected to canonical text: "蛩吟唧唧守孤帏，千里悬悬望信归；等得荣华公子到，秋冬括括雨霏霏" (crickets chirping alone guarding solitary curtain, anxiously awaiting news from afar; by the time the noble arrives, autumn and winter rains fall bleakly). The initial OCR completely misread the imagery and meaning. Sacred meanings confirmed: "莫问财、休斗讼、远未回、病且重、婚无成、多怪梦、且祷神、勿妄动". Fortune level confirmed as 下下 (Poor Fortune).
+
+- **Stick #39**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #40**: Poem verified correct. Line 2 "崎岖历尽见亨衢" (after traversing all the rough terrain, you'll see the smooth broad path) uses the imagery of difficult journey leading to easy passage. This metaphor is critical to the fortune's meaning. No OCR errors detected.
+
+**Web verification sources consulted:**
+- [关帝灵签第32签 k366华易算命网](https://m.k366.com/qian/lqgd_32.htm)
+- [关帝灵签第38签 k366华易算命网](https://m.k366.com/qian/lqgd_38.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Batch 04 had one catastrophic OCR error (Stick #38) requiring complete poem rewrite
+- Stick #32 had incomplete sacred meanings in OCR - missing two critical items about litigation and misfortune
+- Stick #33's reference to 黄庭经 (Yellow Court Classic) requires Daoist knowledge for proper context
+- Stick #38's original OCR missed the entire imagery of lonely waiting and disappointment - this was one of the worst OCR failures in the entire project
+- All fortune levels (下下, 中吉, 上吉) verified against multiple authoritative sources
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.

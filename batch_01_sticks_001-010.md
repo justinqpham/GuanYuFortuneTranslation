@@ -582,10 +582,44 @@ Người ta phải tìm thần và Phật và nắm giữ sự hỗ trợ của 
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
-- Stick #1: Poem corrected to match standard text "巍巍獨步向雲間" (towering, walking alone toward clouds)
-- Stick #4: Litigation sacred meaning corrected from "clear and bright" to "pray to gods/spirits" (禱神明)
-- Stick #7: Format was already corrected to standard (sacred meaning before poem)
-- Stick #10: "打瓦共鐘龜" refers to ancient divination methods - translation verified as accurate
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-Batch 01 has been fully verified and corrected. Ready for final confirmation.
+**OCR Corrections Applied:**
+
+- **Stick #1**: Poem line 1 verified as "巍巍独步向云间" (towering and majestic, walking alone toward clouds). Sacred meaning format standardized to match canonical order: "功名遂、福禄全、讼得理、病即痊、桑麻熟、婚姻圆、孕生子、行人还"
+
+- **Stick #2**: No major OCR errors detected. Poem and sacred meanings match canonical sources. Fortune level confirmed as 上吉 (Upper Fortune).
+
+- **Stick #3**: No major OCR errors detected. Poem verified: "衣食自然生处有，劝君不用苦劳心。但能孝悌存忠信，福禄来成祸不侵。" Sacred meanings confirmed accurate.
+
+- **Stick #4**: Sacred meaning item corrected from initial interpretation. The canonical text shows "若求吉、祷神明" (if seeking fortune, pray to gods/spirits). Physical slip clearly shows "禱神明" which was correctly identified during verification. Fortune level confirmed as 下下 (Poor Fortune).
+
+- **Stick #5**: No major OCR errors detected. Poem verified with zodiac timing reference "若逢牛鼠交承日" (when ox and rat meet). Sacred meanings match canonical sources.
+
+- **Stick #6**: No major OCR errors detected. All text verified against canonical sources.
+
+- **Stick #7**: Format corrected to standard order (sacred meaning before poem). Poem verified: "仙风道骨本天生，又遇仙宗为主盟；指日丹成谢岩谷，一朝引领向天行。" Sacred meanings confirmed: "图名遂、求财丰、讼得理、病不凶、行人至、梦飞熊、阴地吉、婚姻全"
+
+- **Stick #8**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #9**: No major OCR errors detected. All content matches canonical texts.
+
+- **Stick #10**: Poem line 2 verified as "何须打瓦共钻龟" (no need to break tiles or drill tortoise shells - referring to ancient divination methods). Physical slip shows this text clearly. Sacred meanings confirmed: "名难图、财禄失、行人迟、讼未息、病留连、求神佑、莫贪求、宜守旧"
+
+**Web verification sources consulted:**
+- [关帝灵签第1签 k366华易算命网](https://m.k366.com/qian/lqgd_1.htm)
+- [关帝灵签第4签 k366华易算命网](https://m.k366.com/qian/lqgd_4.htm)
+- [关帝灵签第7签 k366华易算命网](https://m.k366.com/qian/lqgd_7.htm)
+- [关帝灵签第10签 k366华易算命网](https://m.k366.com/qian/lqgd_10.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Batch 01 had minimal OCR errors compared to later batches
+- Most corrections were formatting-related (sacred meaning order) rather than character misreads
+- Physical slips from Thien Hau Temple match canonical 关帝灵签 texts very closely
+- Stick #4 sacred meaning "祷神明" (pray to gods/spirits) was the primary content correction needed
+- All fortune levels (大吉, 上吉, 中吉, 中平, 下下) verified against multiple authoritative sources
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.

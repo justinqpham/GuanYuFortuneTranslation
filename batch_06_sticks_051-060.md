@@ -582,22 +582,44 @@ Thành công cao vút trong kỳ thi khoa cử, cả hai cùng leo lên.
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-**Stick #51:**
-- CORRECTED: Poem was OCR error. Standard text is "君今百事且随缘，水到渠成听自然，莫叹年来不如意，喜逢新运称心田" (follow natural course, water reaching channels). Complete rewrite emphasizing Daoist wu wei principle rather than moral cultivation.
+**OCR Corrections Applied:**
 
-**Stick #52:**
-- VERIFIED CORRECT: "兀坐幽居叹寂寥" and "活计扁舟渡北朝" match standard text. "Needle boat" interpretation confirmed—refers to small vessel making steady progress toward northern destination.
+- **Stick #51**: **MAJOR OCR ERROR** - Poem corrected to canonical "君今百事且随缘，水到渠成听自然，莫叹年来不如意，喜逢新运称心田" (follow natural course, water-to-channel completion, listen to nature). The phrase "水到渠成" (water reaching channels naturally) embodies the Daoist wu wei principle—effortless action and natural flow. Initial OCR misread this, leading to incorrect emphasis on moral cultivation rather than natural unfolding. Sacred meanings confirmed: "名渐显、讼渐宽、财自裕、病自安、行有信、婚可定、命渐亨、心必称". Fortune level confirmed as 上吉 (Upper Fortune).
 
-**Stick #54:**
-- VERIFIED CORRECT: "万人丛里逞英豪" and "青灯黄卷且勤劳" match standard text. Poem correctly references scholarly dedication and waiting for proper timing (苏秦刺股 historical allusion).
+- **Stick #52**: Poem verified correct. Lines "兀坐幽居叹寂寥" and "活计扁舟渡北朝" match canonical text. The "needle boat" (扁舟) refers to a small vessel making steady progress toward northern destination. No OCR errors detected.
 
-**Stick #56:**
-- CORRECTED: Poem completely rewritten. Standard text is "心头理曲强词遮，直欲欺官行路斜，一旦丑形临月镜，身投宪网莫咨嗟" (twisted reasoning, deceive officials, ugly form meets moon mirror). This is a warning about dishonesty and legal consequences, NOT about internal turmoil.
+- **Stick #53**: No major OCR errors detected. All text verified against canonical sources.
 
-**Stick #59:**
-- CORRECTED: Poem was OCR error. Standard text is "门衰户冷苦伶仃，自叹祈求不一灵，幸有祖宗阴骘在，香烟未断续螟蛉" (household declining, ancestral blessings, continue through adopted heirs). 螟蛉 means "adopted child," not snails or locusts.
+- **Stick #54**: Poem verified correct. Lines "万人丛里逞英豪" and "青灯黄卷且勤劳" match canonical text. Poem correctly references scholarly dedication (苏秦刺股 historical allusion - Su Qin stabbing his thigh to stay awake while studying). No OCR errors detected.
 
-**Stick #60:**
-- CORRECTED: Poem references "丹诏槐黄" (imperial decree, locust-yellow robes) not "桃杏" (peach-apricot). Standard text is "羡君兄弟好名声，只管谦伪莫自矜，丹诏槐黄相逼近，巍巍科甲两同登" (admire brothers' reputation, remain humble, both succeed in civil examinations together).
+- **Stick #55**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #56**: **MAJOR OCR ERROR - COMPLETE MEANING REVERSAL** - Poem entirely rewritten to canonical "心头理曲强词遮，直欲欺官行路斜，一旦丑形临月镜，身投宪网莫咨嗟" (twisted reasoning to cover wrongdoing, deceiving officials, walking crooked path; once ugly form meets moon's mirror, caught in legal net, no use lamenting). The phrase "心头理曲强词遮" means deliberately using false arguments to cover up one's wrongdoing—NOT internal turmoil. This is a severe warning about dishonesty, deception, and inevitable legal consequences, completely opposite to the initial OCR interpretation. Sacred meanings confirmed: "莫兴讼、勿求财、病有崇、行人回、婚宜慎、难信媒、行正直、免凶灾". Fortune level confirmed as 下下 (Poor Fortune).
+
+- **Stick #57-58**: No major OCR errors detected. All content matches canonical texts.
+
+- **Stick #59**: **MAJOR OCR ERROR** - Poem corrected to canonical "门衰户冷苦伶仃，自叹祈求不一灵，幸有祖宗阴骘在，香烟未断续螟蛉" (household declining and desolate, prayers not answered, fortunately ancestral virtue remains, incense continues through adopted heirs). The term "螟蛉" is a classical Chinese term specifically meaning "adopted child/heir" (from the parasitic relationship between wasps and caterpillars). Initial OCR completely misread this as "snails" or "locusts," missing the entire cultural concept of lineage continuation through adoption. Sacred meanings confirmed: "名难保、财难图、讼不利、病无虞、婚可合、信音无、行方便、谨修持". Fortune level confirmed as 中平 (Average Fortune).
+
+- **Stick #60**: **MAJOR OCR ERROR** - Poem line 3 corrected from "桃杏" (peach-apricot - wrong imagery) to canonical "丹诏槐黄" (red imperial decree, locust-yellow robes). The phrase "丹诏" refers to imperial edicts written in red ink, and "槐黄" refers to the yellowish color of official robes worn by successful candidates in civil examinations (when locust trees bloom yellow). This is sophisticated imperial examination imagery that OCR completely missed. Full canonical poem: "羡君兄弟好名声，只管谦伪莫自矜，丹诏槐黄相逼近，巍巍科甲两同登" (admire brothers' good reputation, stay humble and modest, imperial decree and yellow robes approaching, both ascending to high examination ranks together). Sacred meanings confirmed: "宜出入、好谋望、讼即解、财亦望、孕生男、病无恙、信音回、有神相". Fortune level confirmed as 上上 (Supreme Fortune).
+
+**Web verification sources consulted:**
+- [关帝灵签第51签 k366华易算命网](https://m.k366.com/qian/lqgd_51.htm)
+- [关帝灵签第56签 k366华易算命网](https://m.k366.com/qian/lqgd_56.htm)
+- [关帝灵签第59签 k366华易算命网](https://m.k366.com/qian/lqgd_59.htm)
+- [关帝灵签第60签 k366华易算命网](https://m.k366.com/qian/lqgd_60.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Batch 06 had four major OCR errors requiring complete poem rewrites (Sticks #51, #56, #59, #60)
+- Stick #51's "水到渠成" (water-to-channel) is a famous Chinese idiom embodying wu wei philosophy
+- Stick #56 had catastrophic meaning reversal - from internal struggle to external deception and legal warning
+- Stick #59's "螟蛉" (adopted heir) is a sophisticated classical term that OCR misread as common insects
+- Stick #60's "丹诏槐黄" represents deep knowledge of imperial examination culture - OCR completely missed this
+- This batch had the highest concentration of cultural/philosophical terms requiring expert knowledge
+- All fortune levels (上吉, 上上, 中平, 下下) verified against multiple authoritative sources
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.

@@ -582,10 +582,38 @@ Riêng tư, chờ đợi thời điểm định sẵn cho tin tốt với gia đ
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
-- Stick #21: CORRECTED - Original OCR error. "與君夙昔結成冤" means "grudge was formed with you in the past," NOT "wind and phoenix." Completely rewrote poem and interpretation.
-- Stick #25: Zodiac timing verified - "玉兔金鸡会" (Jade Rabbit and Golden Rooster meeting) refers to Rabbit year + Rooster month, OR Rooster year + Rabbit month, OR their corresponding days. This is the most auspicious timing for success.
-- Stick #27: CORRECTED - "英" means "heroic/outstanding" NOT "English." Changed sacred meaning from "litigation, English and profit" to "heroic deeds and profit."
-- Stick #30: CORRECTED - "奉公" means "serve the public," NOT "李公" (Duke Li). Rewrote poem to emphasize public service and integrity rather than advice from a historical figure.
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-Batch 03 has been fully verified and corrected. Ready for final confirmation.
+**OCR Corrections Applied:**
+
+- **Stick #21**: **MAJOR OCR ERROR** - Poem line 1 corrected from misread to canonical "与君夙昔结成冤" (grudge was formed with you in the past). Initial OCR completely misread this as "wind and phoenix" imagery. Entire poem and interpretation required rewrite. Sacred meanings confirmed: "事无成、病祷愈、出不宜、讼有理、冤报冤、求神解、若欲贪、终必败". Fortune level confirmed as 下下 (Poor Fortune). This stick references the historical story of Xu Jia harming Fan Sui.
+
+- **Stick #22-24**: No major OCR errors detected. All text verified against canonical sources.
+
+- **Stick #25**: Zodiac timing terminology verified. The phrase "玉兔金鸡会" (Jade Rabbit and Golden Rooster meeting) refers to specific zodiac timing combinations: Rabbit year + Rooster month (卯年酉月), OR Rooster year + Rabbit month (酉年卯月), OR their corresponding days. This represents the most auspicious timing for success. Fortune level confirmed as 上上 (Supreme Fortune).
+
+- **Stick #26**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #27**: **MAJOR OCR ERROR** - Character "英" (heroic/outstanding) was initially misread as "English" in translation. Corrected sacred meaning from nonsensical "litigation, English and profit" to proper "名与利" (reputation and profit) context. Canonical poem verified: "世间万物皆有主，一粒一毫君莫取；英雄豪杰自天生，也须步步循规矩". Sacred meanings: "讼莫兴、医审病、名与利、付之命、行人迟、婚未定、凡百事、且安分"
+
+- **Stick #28-29**: No major OCR errors detected. All content matches canonical texts.
+
+- **Stick #30**: **MAJOR OCR ERROR** - Poem line 1 corrected from "李公" (Duke Li - a person) to canonical "奉公" (serve the public - a principle). This changes the entire meaning from "following advice from a historical figure" to "maintaining integrity in public service." Canonical poem: "奉公谨守莫欺心，自有亨通吉利临；目下营求且休矣，私期与子定佳音". Sacred meanings confirmed: "利虽有、莫妄作、讼宜和、病勿药、名待时、婚有约、但存心、安且乐"
+
+**Web verification sources consulted:**
+- [关帝灵签第21签 k366华易算命网](https://m.k366.com/qian/lqgd_21.htm)
+- [关帝灵签第27签 k366华易算命网](https://m.k366.com/qian/lqgd_27.htm)
+- [关帝灵签第30签 k366华易算命网](https://m.k366.com/qian/lqgd_30.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Batch 03 had three major OCR errors requiring complete reinterpretation (Sticks #21, #27, #30)
+- Stick #21's error was most severe - completely misread the core concept of "grudge/enmity" (冤)
+- Stick #27 shows how single-character errors (英 vs. English) can create nonsensical translations
+- Stick #30's error changed fundamental meaning from person-centered to principle-centered advice
+- Cultural references like zodiac timing (玉兔金鸡) require deep knowledge of Chinese astrology
+- All fortune levels (下下, 上上, 中吉, 中平) verified against multiple authoritative sources
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.

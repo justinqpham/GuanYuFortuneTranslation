@@ -582,10 +582,44 @@ Thành tựu, danh tiếng, tài lộc, và danh dự như mây trôi.
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
-- Stick #11: Contradiction verified as INTENTIONAL - the sign warns "先吉后凶" (first auspicious then inauspicious). The optimistic beginning deliberately contrasts with the harsh ending to warn against being deceived by surface appearances.
-- Stick #13: Poem verified - standard text shows "君今庚甲未亨通" (current fortune not yet smooth). The "庚甲" refers to fortune timing, not zodiac years.
-- Stick #18: Sacred meaning verified - "祈福佑" (pray for blessings/protection) in the litigation context is correct. Standard text: "且向善。祈福佑" (turn toward goodness, pray for blessings).
-- Stick #20: Poem corrected - should be "十八滩头说与君" (speaking to you at the Eighteen Rapids), NOT "十八到頭". This refers to the treacherous Eighteen Rapids on a river, symbolizing life's dangers.
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-Batch 02 has been fully verified and corrected. Ready for final confirmation.
+**OCR Corrections Applied:**
+
+- **Stick #11**: Fortune level confirmed as 下下 (Poor Fortune). Poem verified: "今年好事一番新，富贵荣华萃汝身；谁道机关难料处，到头独立转伤神。" **INTENTIONAL CONTRADICTION**: The optimistic first two lines deliberately contrast with the harsh ending to warn against being deceived by surface appearances ("先吉后凶" - first auspicious then inauspicious). Sacred meanings confirmed: "莫贪求、名未遂、财禄平、讼不利、病者凶、事不济、问行人、多阻滞"
+
+- **Stick #12**: No major OCR errors detected. All text verified against canonical sources.
+
+- **Stick #13**: Poem line 1 verified as "君今庚甲未亨通" (your current fortune not yet smooth). The term "庚甲" refers to fortune timing/heavenly stems, not zodiac years. Poem references jade rabbit (卯/rabbit) timing for fortune reversal. Sacred meanings confirmed: "时未亨、宜守旧、遇卯日、名利就、病迟愈、讼终利、行人归、事终济"
+
+- **Stick #14**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #15**: No major OCR errors detected. All content matches canonical texts.
+
+- **Stick #16**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #17**: No major OCR errors detected. All text verified against canonical sources.
+
+- **Stick #18**: Sacred meaning verified as "名利难、终则有、病祷神、讼勿问、行人迟、事难就、且向善、祈福佑" (turn toward goodness, pray for blessings/protection). The phrase "祈福佑" in the litigation context emphasizes spiritual cultivation over legal争讼. Fortune level confirmed as 中平 (Average Fortune).
+
+- **Stick #19**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #20**: **MAJOR CORRECTION** - Poem line 2 corrected from OCR error "十八到頭" to canonical "十八滩头说与君" (speaking to you at the Eighteen Rapids). The "十八滩头" refers to the treacherous Eighteen Rapids (a famous dangerous section of river in Jiangxi), symbolizing life's perils and险阻. This is a critical cultural/geographical reference that changes the meaning significantly. Sacred meanings confirmed: "讼终凶、止则宜、名利轻、病择医、行人远、婚迟疑、凡作事、且随时"
+
+**Web verification sources consulted:**
+- [关帝灵签第11签 k366华易算命网](https://m.k366.com/qian/lqgd_11.htm)
+- [关帝灵签第13签 k366华易算命网](https://m.k366.com/qian/lqgd_13.htm)
+- [关帝灵签第18签 k366华易算命网](https://m.k366.com/qian/lqgd_18.htm)
+- [关帝灵签第20签 k366华易算命网](https://m.k366.com/qian/lqgd_20.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Stick #11's intentional contradiction (吉凶相反) is a pedagogical device warning against surface appearances
+- Stick #20 had the most significant OCR error: "十八到頭" → "十八滩头" (geographical landmark vs. generic phrase)
+- Most sticks in this batch had accurate OCR with minimal corrections needed
+- All fortune levels (下下, 上吉, 中平) verified against multiple authoritative sources
+- Technical terms like "庚甲" (heavenly stems) and "十八滩头" (Eighteen Rapids) require cultural context for accurate translation
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.

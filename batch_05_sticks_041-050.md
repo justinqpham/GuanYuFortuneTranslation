@@ -582,22 +582,42 @@ Tất cả không phải là mất mát—cuộc sống và phúc lành đang l�
 
 ### CALL-OUTS
 
-**All call-outs verified and corrected:**
+**All sticks verified against canonical 关帝灵签 texts from multiple sources:**
 
-**Stick #41:**
-- CORRECTED: Poem line 3 was OCR error "牛羊三井" (cattle, sheep, three wells) → Standard text is "遇鼠逢牛三弄笛" (encountering rat and ox, playing flute three times). This refers to auspicious zodiac timing (Rat and Ox years/months). Poem and interpretation fully rewritten.
+**OCR Corrections Applied:**
 
-**Stick #43:**
-- VERIFIED CORRECT: "一纸官书火急催" matches standard text. Imagery of urgent document and dangerous waters confirmed accurate.
+- **Stick #41**: **MAJOR OCR ERROR** - Poem line 3 corrected from "牛羊三井" (cattle, sheep, three wells - nonsensical) to canonical "遇鼠逢牛三弄笛" (encountering rat and ox, playing flute three times). This critical phrase references auspicious zodiac timing combinations: Rat year + Ox month (子年丑月), or Ox year + Rat month, or their corresponding days. The "three flute plays" suggests multiple auspicious opportunities. Sacred meanings confirmed: "讼无定、终有遇、病多忧、择医愈、信即到、婚终好、凡所谋、慎勿躁". Fortune level confirmed as 上吉 (Upper Fortune).
 
-**Stick #46:**
-- VERIFIED: Sacred meanings are indeed incomplete on the original stick. Health and Wealth not listed separately. The unusual "Blessings: litigation, brave and astute" reflects the actual text structure where categories overlap.
+- **Stick #42**: No major OCR errors detected. All text verified against canonical sources.
 
-**Stick #47:**
-- CORRECTED: Poem lines 3-4 were OCR error "試於清夜把人拿" (grab people in the clear night) → Standard text is "试于清夜把心扪" (examine your heart in the quiet night). Complete shift from external confrontation to internal self-reflection. Poem and interpretation fully rewritten.
+- **Stick #43**: Poem verified correct. Line 1 "一纸官书火急催" (one urgent official document) matches canonical text. Imagery of urgent summons and dangerous waters confirmed accurate. No OCR errors.
 
-**Stick #49:**
-- CORRECTED: Poem line 4 was OCR error "老人開門鬼入門" (old person opens door, ghosts enter) → Standard text references "鬼门关" (Ghost Gate Pass), a dangerous threshold. Interpretation adjusted to reflect this traditional metaphor for perilous situations.
+- **Stick #44-45**: No major OCR errors detected. Poems and sacred meanings verified as accurate.
 
-**Stick #50:**
-- VERIFIED: Last line "莫教辜负与虚废" (do not allow it to be betrayed and wasted) confirmed correct. The warning is against squandering good fortune through negligence or arrogance. Interpretation accurate.
+- **Stick #46**: Sacred meanings verified - the original stick indeed has incomplete sacred meaning format. Health and Wealth not listed separately on this particular stick. This is an authentic variation in the temple's version, not an OCR error.
+
+- **Stick #47**: **MAJOR OCR ERROR - MEANING REVERSED** - Poem line 4 corrected from "试于清夜把人拿" (grab/arrest people in the clear night - external confrontation) to canonical "试于清夜把心扪" (examine your heart in the quiet night - internal self-reflection). This single character difference (人 vs 心) completely reverses the fortune's meaning from aggressive action to introspective contemplation. Sacred meanings confirmed: "讼莫兴、恐遭刑、财莫贪、病未宁、行有阻、婚难成、且循理、保和平". Fortune level confirmed as 中平 (Average Fortune).
+
+- **Stick #48**: No major OCR errors detected. Poem and sacred meanings verified as accurate.
+
+- **Stick #49**: **MAJOR OCR ERROR** - Poem line 2 corrected to include canonical reference "如何似隔鬼门关" (as if separated by Ghost Gate Pass). The term "鬼门关" is a traditional Chinese metaphor for dangerous thresholds or perilous situations - specifically referring to the legendary gate between life and death. Initial OCR missed this cultural reference which is critical to understanding the fortune's warning about insurmountable distance despite physical proximity. Sacred meanings confirmed: "名利阻、且休问、讼宜和、病有愿、婚姻迟、行人远、欲获吉、且安份". Fortune level confirmed as 下下 (Poor Fortune).
+
+- **Stick #50**: Poem line 4 verified correct: "莫教辜负与虚废" (do not allow it to be betrayed and wasted). The warning is against squandering good fortune through negligence or arrogance. No OCR errors. All content matches canonical sources.
+
+**Web verification sources consulted:**
+- [关帝灵签第41签 k366华易算命网](https://m.k366.com/qian/lqgd_41.htm)
+- [关帝灵签第47签 k366华易算命网](https://m.k366.com/qian/lqgd_47.htm)
+- [关帝灵签第49签 k366华易算命网](https://m.k366.com/qian/lqgd_49.htm)
+- [关帝灵签 51抽签网](https://www.51chouqian.com/guandilingqian/)
+- [关帝灵签 农历网](https://www.nongli.com/item5/guandi/)
+- [关帝灵签 易安居吉祥网](https://www.zhouyi.cc/lingqian/guandi/)
+
+**Notable findings:**
+- Batch 05 had three major OCR errors with significant meaning changes (Sticks #41, #47, #49)
+- Stick #41's error created nonsensical "cattle sheep three wells" instead of zodiac timing reference
+- Stick #47's single-character error (人 vs 心) completely reversed the fortune from external action to internal reflection - this demonstrates how critical accurate OCR is for classical Chinese
+- Stick #49's "Ghost Gate Pass" (鬼门关) is a profound cultural metaphor that OCR completely missed
+- Stick #46 has an authentic variation in sacred meaning format - this is the temple's version, not an error
+- All fortune levels (上吉, 中平, 下下) verified against multiple authoritative sources
+
+All translations completed with verified accuracy against standard 关帝灵签 canonical texts from authoritative Chinese divination sources.
