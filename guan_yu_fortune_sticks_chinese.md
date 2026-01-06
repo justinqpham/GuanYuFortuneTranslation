@@ -5,7 +5,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第一籤 (STICK I) 甲甲 大吉
+## 第一籤 I 甲甲 大吉
 
 **典故:** 十八學士登瀛洲
 
@@ -25,7 +25,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二籤 (STICK II) 甲乙 上吉
+## 第二籤 II 甲乙 上吉
 
 **籤文:** 二 甲乙 上吉
 
@@ -43,7 +43,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三籤 (STICK III) 甲丙 中吉
+## 第三籤 III 甲丙 中吉
 
 **籤文:** 三 甲丙 中吉
 
@@ -61,7 +61,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四籤 (STICK IV) 甲丁 下下
+## 第四籤 IV 甲丁 下下
 
 **籤文:** 四 甲丁 下下
 
@@ -79,7 +79,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五籤 (STICK V) 甲戊 中平
+## 第五籤 V 甲戊 中平
 
 **籤文:** 五 甲戊 中平
 
@@ -97,7 +97,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六籤 (STICK VI) 甲己 下下
+## 第六籤 VI 甲己 下下
 
 **籤文:** 六 甲己 下下
 
@@ -115,7 +115,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七籤 (STICK VII) 甲庚 大吉
+## 第七籤 VII 甲庚 大吉
 
 **籤文:** 七 甲庚 大吉
 
@@ -133,7 +133,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八籤 (STICK VIII) 甲辛 上上
+## 第八籤 VIII 甲辛 上上
 
 **籤文:** 八 甲辛 上上
 
@@ -151,7 +151,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九籤 (STICK IX) 甲壬 大吉
+## 第九籤 IX 甲壬 大吉
 
 **籤文:** 九 甲壬 大吉
 
@@ -169,7 +169,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十籤 (STICK X) 甲癸 下下
+## 第十籤 X 甲癸 下下
 
 **籤文:** 十 甲癸 下下
 
@@ -187,7 +187,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十一籤 (STICK XI) 乙甲 下下
+## 第十一籤 XI 乙甲 下下
 
 **典故:** 孫臏遇龐涓
 
@@ -207,7 +207,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十二籤 (STICK XII) 乙乙 中平
+## 第十二籤 XII 乙乙 中平
 
 **典故:** 鮑叔牙薦管仲
 
@@ -227,7 +227,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十三籤 (STICK XIII) 乙丙 上吉
+## 第十三籤 XIII 乙丙 上吉
 
 **籤文:** 十三 乙丙 上吉
 
@@ -245,7 +245,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十四籤 (STICK XIV) 乙丁 下下
+## 第十四籤 XIV 乙丁 下下
 
 **籤文:** 十四 乙丁 下下
 
@@ -263,7 +263,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十五籤 (STICK XV) 乙戊 中平
+## 第十五籤 XV 乙戊 中平
 
 **籤文:** 十五 乙戊 中平
 
@@ -281,7 +281,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十六籤 (STICK XVI) 乙己 下下
+## 第十六籤 XVI 乙己 下下
 
 **籤文:** 十六 乙己 下下
 
@@ -299,7 +299,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十七籤 (STICK XVII) 乙庚 下下
+## 第十七籤 XVII 乙庚 下下
 
 **典故:** 虞芮爭閑田
 
@@ -319,7 +319,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十八籤 (STICK XVIII) 乙辛 中平
+## 第十八籤 XVIII 乙辛 中平
 
 **籤文:** 十八 乙辛 中平
 
@@ -337,7 +337,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第十九籤 (STICK XIX) 乙壬 上吉
+## 第十九籤 XIX 乙壬 上吉
 
 **典故:** 裴航遇仙
 
@@ -357,7 +357,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十籤 (STICK XX) 乙癸 下下
+## 第二十籤 XX 乙癸 下下
 
 **籤文:** 二十 乙癸 下下
 
@@ -375,7 +375,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十一籤 (STICK XXI) 下下
+## 第二十一籤 XXI 下下
 
 **籤文:** 二十一 下下
 
@@ -393,7 +393,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十二籤 (STICK XXII) 丙乙 上吉
+## 第二十二籤 XXII 丙乙 上吉
 
 **籤文:** 二十二 丙乙 上吉
 
@@ -411,7 +411,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十三籤 (STICK XXIII) 下下
+## 第二十三籤 XXIII 下下
 
 **籤文:** 二十三 下下
 
@@ -429,7 +429,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十四籤 (STICK XXIV) 丙丁 中吉
+## 第二十四籤 XXIV 丙丁 中吉
 
 **籤文:** 二十四 丙丁 中吉
 
@@ -447,7 +447,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十五籤 (STICK XXV) 中平
+## 第二十五籤 XXV 中平
 
 **籤文:** 二十五 中平
 
@@ -465,7 +465,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十六籤 (STICK XXVI) 丙己 中吉
+## 第二十六籤 XXVI 丙己 中吉
 
 **籤文:** 二十六 丙己 中吉
 
@@ -483,7 +483,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十七籤 (STICK XXVII) 中平
+## 第二十七籤 XXVII 中平
 
 **籤文:** 二十七 中平
 
@@ -501,7 +501,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十八籤 (STICK XXVIII) 上吉
+## 第二十八籤 XXVIII 上吉
 
 **籤文:** 二十八 上吉
 
@@ -519,7 +519,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第二十九籤 (STICK XXIX) 上吉
+## 第二十九籤 XXIX 上吉
 
 **籤文:** 二十九 上吉
 
@@ -537,7 +537,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十籤 (STICK XXX) 中吉
+## 第三十籤 XXX 中吉
 
 **籤文:** 三十 中吉
 
@@ -555,7 +555,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十一籤 (STICK XXXI) 中吉
+## 第三十一籤 XXXI 中吉
 
 **籤文:** 三十一 中吉
 
@@ -573,7 +573,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十二籤 (STICK XXXII) 下下
+## 第三十二籤 XXXII 下下
 
 **籤文:** 三十二 下下
 
@@ -591,7 +591,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十三籤 (STICK XXXIII) 中吉
+## 第三十三籤 XXXIII 中吉
 
 **籤文:** 三十三 中吉
 
@@ -609,7 +609,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十四籤 (STICK XXXIV) 中吉
+## 第三十四籤 XXXIV 中吉
 
 **籤文:** 三十四 中吉
 
@@ -627,7 +627,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十五籤 (STICK XXXV) 下下
+## 第三十五籤 XXXV 下下
 
 **籤文:** 三十五 下下
 
@@ -645,7 +645,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十六籤 (STICK XXXVI) 丁己 上吉
+## 第三十六籤 XXXVI 丁己 上吉
 
 **籤文:** 三十六 丁己 上吉
 
@@ -663,7 +663,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十七籤 (STICK XXXVII) 丁庚 中吉
+## 第三十七籤 XXXVII 丁庚 中吉
 
 **籤文:** 三十七 丁庚 中吉
 
@@ -681,7 +681,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十八籤 (STICK XXXVIII) 下下
+## 第三十八籤 XXXVIII 下下
 
 **籤文:** 三十八 下下
 
@@ -699,7 +699,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第三十九籤 (STICK XXXIX) 中下
+## 第三十九籤 XXXIX 中下
 
 **籤文:** 三十九 中下
 
@@ -717,7 +717,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十籤 (STICK XL) 上吉
+## 第四十籤 XL 上吉
 
 **籤文:** 四十 上吉
 
@@ -735,7 +735,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十一籤 (STICK XLI) 上吉
+## 第四十一籤 XLI 上吉
 
 **籤文:** 四十一 上吉
 
@@ -753,7 +753,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十二籤 (STICK XLII) 中吉
+## 第四十二籤 XLII 中吉
 
 **籤文:** 四十二 中吉
 
@@ -771,7 +771,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十三籤 (STICK XLIII) 戊丙 中吉
+## 第四十三籤 XLIII 戊丙 中吉
 
 **籤文:** 四十三 戊丙 中吉
 
@@ -789,7 +789,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十四籤 (STICK XLIV) 中吉
+## 第四十四籤 XLIV 中吉
 
 **籤文:** 四十四 中吉
 
@@ -807,7 +807,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十五籤 (STICK XLV) 中吉
+## 第四十五籤 XLV 中吉
 
 **籤文:** 四十五 中吉
 
@@ -825,7 +825,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十六籤 (STICK XLVI) 中平
+## 第四十六籤 XLVI 中平
 
 **籤文:** 四十六 中平
 
@@ -843,7 +843,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十七籤 (STICK XLVII) 中平
+## 第四十七籤 XLVII 中平
 
 **籤文:** 四十七 中平
 
@@ -861,7 +861,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十八籤 (STICK XLVIII) 中吉
+## 第四十八籤 XLVIII 中吉
 
 **籤文:** 四十八 中吉
 
@@ -879,7 +879,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第四十九籤 (STICK XLIX) 下下
+## 第四十九籤 XLIX 下下
 
 **籤文:** 四十九 下下
 
@@ -897,7 +897,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十籤 (STICK L) 上吉
+## 第五十籤 L 上吉
 
 **籤文:** 五十 上吉
 
@@ -915,7 +915,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十一籤 (STICK LI) 上吉
+## 第五十一籤 LI 上吉
 
 **籤文:** 五十一 上吉
 
@@ -933,7 +933,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十二籤 (STICK LII) 上吉
+## 第五十二籤 LII 上吉
 
 **籤文:** 五十二 上吉
 
@@ -951,7 +951,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十三籤 (STICK LIII) 下下
+## 第五十三籤 LIII 下下
 
 **籤文:** 五十三 下下
 
@@ -969,7 +969,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十四籤 (STICK LIV) 中平
+## 第五十四籤 LIV 中平
 
 **籤文:** 五十四 中平
 
@@ -987,7 +987,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十五籤 (STICK LV) 中平
+## 第五十五籤 LV 中平
 
 **籤文:** 五十五 中平
 
@@ -1005,7 +1005,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十六籤 (STICK LVI) 下下
+## 第五十六籤 LVI 下下
 
 **籤文:** 五十六 下下
 
@@ -1023,7 +1023,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十七籤 (STICK LVII) 中平
+## 第五十七籤 LVII 中平
 
 **籤文:** 五十七 中平
 
@@ -1041,7 +1041,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十八籤 (STICK LVIII) 上吉
+## 第五十八籤 LVIII 上吉
 
 **籤文:** 五十八 上吉
 
@@ -1059,7 +1059,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第五十九籤 (STICK LIX) 中平
+## 第五十九籤 LIX 中平
 
 **籤文:** 五十九 中平
 
@@ -1077,7 +1077,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十籤 (STICK LX) 上上
+## 第六十籤 LX 上上
 
 **籤文:** 六十 上上
 
@@ -1095,7 +1095,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十一籤 (STICK LXI) 中吉
+## 第六十一籤 LXI 中吉
 
 **籤文:** 六十一 中吉
 
@@ -1113,7 +1113,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十二籤 (STICK LXII) 中吉
+## 第六十二籤 LXII 中吉
 
 **籤文:** 六十二 中吉
 
@@ -1131,7 +1131,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十三籤 (STICK LXIII) 庚丙 中吉
+## 第六十三籤 LXIII 庚丙 中吉
 
 **籤文:** 六十三 庚丙 中吉
 
@@ -1149,7 +1149,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十四籤 (STICK LXIV) 上上
+## 第六十四籤 LXIV 上上
 
 **籤文:** 六十四 上上
 
@@ -1167,7 +1167,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十五籤 (STICK LXV) 上上
+## 第六十五籤 LXV 上上
 
 **籤文:** 六十五 上上
 
@@ -1185,7 +1185,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十六籤 (STICK LXVI) 上上
+## 第六十六籤 LXVI 上上
 
 **籤文:** 六十六 上上
 
@@ -1203,7 +1203,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十七籤 (STICK LXVII) 中平
+## 第六十七籤 LXVII 中平
 
 **籤文:** 六十七 中平
 
@@ -1221,7 +1221,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十八籤 (STICK LXVIII) 庚辛 中吉
+## 第六十八籤 LXVIII 庚辛 中吉
 
 **籤文:** 六十八 庚辛 中吉
 
@@ -1239,7 +1239,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第六十九籤 (STICK LXIX) 中平
+## 第六十九籤 LXIX 中平
 
 **籤文:** 六十九 中平
 
@@ -1257,7 +1257,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十籤 (STICK LXX) 中吉
+## 第七十籤 LXX 中吉
 
 **籤文:** 七十 中吉
 
@@ -1275,7 +1275,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十一籤 (STICK LXXI) 中吉
+## 第七十一籤 LXXI 中吉
 
 **籤文:** 七十一 中吉
 
@@ -1293,7 +1293,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十二籤 (STICK LXXII) 中平
+## 第七十二籤 LXXII 中平
 
 **籤文:** 七十二 中平
 
@@ -1311,7 +1311,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十三籤 (STICK LXXIII) 下下
+## 第七十三籤 LXXIII 下下
 
 **籤文:** 七十三 下下
 
@@ -1329,7 +1329,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十四籤 (STICK LXXIV) 上吉
+## 第七十四籤 LXXIV 上吉
 
 **籤文:** 七十四 上吉
 
@@ -1347,7 +1347,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十五籤 (STICK LXXV) 中吉
+## 第七十五籤 LXXV 中吉
 
 **籤文:** 七十五 中吉
 
@@ -1365,7 +1365,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十六籤 (STICK LXXVI) 中平
+## 第七十六籤 LXXVI 中平
 
 **籤文:** 七十六 中平
 
@@ -1383,7 +1383,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十七籤 (STICK LXXVII) 中下
+## 第七十七籤 LXXVII 中下
 
 **籤文:** 七十七 中下
 
@@ -1401,7 +1401,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十八籤 (STICK LXXVIII) 辛辛 下下
+## 第七十八籤 LXXVIII 辛辛 下下
 
 **籤文:** 七十八 辛辛 下下
 
@@ -1419,7 +1419,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第七十九籤 (STICK LXXIX) 中平
+## 第七十九籤 LXXIX 中平
 
 **籤文:** 七十九 中平
 
@@ -1437,7 +1437,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十籤 (STICK LXXX) 中平
+## 第八十籤 LXXX 中平
 
 **籤文:** 八十 中平
 
@@ -1455,7 +1455,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十一籤 (STICK LXXXI) 中吉
+## 第八十一籤 LXXXI 中吉
 
 **籤文:** 八十一 中吉
 
@@ -1473,7 +1473,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十二籤 (STICK LXXXII) 上吉
+## 第八十二籤 LXXXII 上吉
 
 **籤文:** 八十二 上吉
 
@@ -1491,7 +1491,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十三籤 (STICK LXXXIII) 下下
+## 第八十三籤 LXXXIII 下下
 
 **籤文:** 八十三 下下
 
@@ -1509,7 +1509,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十四籤 (STICK LXXXIV) 中平
+## 第八十四籤 LXXXIV 中平
 
 **籤文:** 八十四 中平
 
@@ -1527,7 +1527,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十五籤 (STICK LXXXV) 中平
+## 第八十五籤 LXXXV 中平
 
 **籤文:** 八十五 中平
 
@@ -1545,7 +1545,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十六籤 (STICK LXXXVI) 上吉
+## 第八十六籤 LXXXVI 上吉
 
 **籤文:** 八十六 上吉
 
@@ -1563,7 +1563,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十七籤 (STICK LXXXVII) 中平
+## 第八十七籤 LXXXVII 中平
 
 **籤文:** 八十七 中平
 
@@ -1581,7 +1581,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十八籤 (STICK LXXXVIII) 上吉
+## 第八十八籤 LXXXVIII 上吉
 
 **籤文:** 八十八 上吉
 
@@ -1599,7 +1599,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第八十九籤 (STICK LXXXIX) 中吉
+## 第八十九籤 LXXXIX 中吉
 
 **籤文:** 八十九 中吉
 
@@ -1617,7 +1617,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十籤 (STICK XC) 中平
+## 第九十籤 XC 中平
 
 **籤文:** 九十 中平
 
@@ -1635,7 +1635,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十一籤 (STICK XCI) 中吉
+## 第九十一籤 XCI 中吉
 
 **籤文:** 九十一 中吉
 
@@ -1653,7 +1653,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十二籤 (STICK XCII) 中下
+## 第九十二籤 XCII 中下
 
 **籤文:** 九十二 中下
 
@@ -1671,7 +1671,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十三籤 (STICK XCIII) 癸丙 中吉
+## 第九十三籤 XCIII 癸丙 中吉
 
 **籤文:** 九十三 癸丙 中吉
 
@@ -1689,7 +1689,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十四籤 (STICK XCIV) 中吉
+## 第九十四籤 XCIV 中吉
 
 **籤文:** 九十四 中吉
 
@@ -1707,7 +1707,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十五籤 (STICK XCV) 癸戊 中吉
+## 第九十五籤 XCV 癸戊 中吉
 
 **籤文:** 九十五 癸戊 中吉
 
@@ -1725,7 +1725,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十六籤 (STICK XCVI) 上吉
+## 第九十六籤 XCVI 上吉
 
 **籤文:** 九十六 上吉
 
@@ -1743,7 +1743,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十七籤 (STICK XCVII) 上上
+## 第九十七籤 XCVII 上上
 
 **籤文:** 九十七 上上
 
@@ -1761,7 +1761,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十八籤 (STICK XCVIII) 中吉
+## 第九十八籤 XCVIII 中吉
 
 **籤文:** 九十八 中吉
 
@@ -1779,7 +1779,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第九十九籤 (STICK XCIX) 上上
+## 第九十九籤 XCIX 上上
 
 **籤文:** 九十九 上上
 
@@ -1797,7 +1797,7 @@ Verified: k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ---
 
-## 第一百籤 (STICK C) 上上
+## 第一百籤 C 上上
 
 **籤文:** 一百 上上
 
