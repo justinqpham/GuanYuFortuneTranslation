@@ -190,7 +190,6 @@ Average Fortune (Neutral / Mixed)
 - **Marriage:** difficult to achieve
 - **Misfortune:** unsuitable
 - **Blessings:** wait for the right time
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Ten thousand people pile up firewood, seeking a desire and cherished path,
@@ -217,7 +216,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Hôn nhân:** khó đạt được
 - **Tai họa:** không thích hợp
 - **Phúc lộc:** chờ đợi đúng thời điểm
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Vạn người chất củi, tìm kiếm khát khao và con đường quý trọng,
@@ -305,7 +303,6 @@ Poor Fortune (Unfavorable / Caution)
 - **Travel / Movement:** blocked and halted
 - **Marriage:** obstacles in achieving
 - **Misfortune:** evil water and fire
-- **Blessings:** (not addressed)
 - **Litigation:** traveler returns
 
 **Fortune Poem:**
@@ -332,7 +329,6 @@ Hạ Hạ (Không thuận / Cần đề phòng)
 - **Người đi xa / Di chuyển:** bị chặn và dừng lại
 - **Hôn nhân:** trở ngại trong việc đạt được
 - **Tai họa:** nước và lửa xấu
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** người đi xa trở về
 
 **Bài thơ quẻ:**
@@ -420,7 +416,6 @@ Upper Fortune (Good / Auspicious)
 - **Reputation:** prosperous and victorious
 - **Travel / Movement:** favorable return
 - **Marriage:** favorable and auspicious
-- **Misfortune:** (not addressed)
 - **Blessings:** fulfillment and satisfaction
 - **Litigation:** appropriate and easy
 
@@ -477,7 +472,6 @@ Average Fortune (Neutral / Mixed)
 - **Wealth:** difficult and entangled
 - **Reputation:** fame difficult to obtain
 - **Travel / Movement:** not favorable
-- **Marriage:** (not addressed)
 - **Misfortune:** must pray and ask (for resolution)
 - **Blessings:** have clarity and no confusion
 - **Litigation:** should wait
@@ -504,7 +498,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Tài lộc:** khó khăn và vướng víu
 - **Danh tiếng:** danh vọng khó có được
 - **Người đi xa / Di chuyển:** không thuận lợi
-- **Hôn nhân:** (không đề cập)
 - **Tai họa:** phải cầu nguyện và hỏi (để giải quyết)
 - **Phúc lộc:** có sự rõ ràng và không bối rối
 - **Kiện tụng:** nên chờ đợi
@@ -538,7 +531,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Marriage:** favorable separation (timing matters)
 - **Misfortune:** appropriate to dissolve
 - **Blessings:** immediate arrival
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 I admire you brothers for your fine reputation and name,
@@ -565,7 +557,6 @@ Thượng Thượng (Rất tốt / Đại cát)
 - **Hôn nhân:** chia ly thuận lợi (thời điểm quan trọng)
 - **Tai họa:** thích hợp để hòa tan
 - **Phúc lộc:** đến ngay lập tức
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Tôi ngưỡng mộ các anh em vì danh tiếng và tên tuổi tốt đẹp,

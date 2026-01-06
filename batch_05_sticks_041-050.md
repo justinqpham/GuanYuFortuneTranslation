@@ -247,7 +247,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Travel / Movement:** to the end
 - **Marriage:** favorable and also ends well
 - **Misfortune:** prayer achieves principle
-- **Blessings:** (not addressed)
 - **Litigation:** achieves principle
 
 **Fortune Poem:**
@@ -299,8 +298,6 @@ STICK #46
 Average Fortune (Neutral / Mixed)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
-- **Wealth:** (not addressed)
 - **Reputation:** fame and benefit
 - **Travel / Movement:** delayed
 - **Marriage:** not granted
@@ -359,12 +356,10 @@ Average Fortune (Neutral / Mixed)
 **Sacred Meaning:**
 - **Health:** not favorable
 - **Wealth:** financial luck meets calamity
-- **Reputation:** (not addressed)
 - **Travel / Movement:** there is obstruction and opposition
 - **Marriage:** difficult to succeed
 - **Misfortune:** evil, not beneficial
 - **Blessings:** cultivate virtue
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 With you, seek the peace and harmony of a thousand words,
@@ -391,7 +386,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Hôn nhân:** khó thành công
 - **Tai họa:** xấu, không có lợi
 - **Phúc lộc:** tu đức
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Với ngươi, tìm bình an và hòa hợp của nghìn lời,
@@ -417,10 +411,8 @@ Middle Fortune (Moderate / Fairly Auspicious)
 **Sacred Meaning:**
 - **Health:** disease, danger and hidden hazards
 - **Wealth:** wealth leads to noble person
-- **Reputation:** (not addressed)
 - **Travel / Movement:** reconciliation and peace
 - **Marriage:** suitable and preserved
-- **Misfortune:** (not addressed)
 - **Blessings:** coming soon
 - **Litigation:** must come apart and new
 
@@ -479,8 +471,6 @@ Poor Fortune (Unfavorable / Caution)
 - **Travel / Movement:** stop the door and reside
 - **Marriage:** not yet allowed
 - **Misfortune:** seek proclamation and harmony
-- **Blessings:** (not addressed)
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 If living at home is only like one mountain,
@@ -506,8 +496,6 @@ Hạ Hạ (Không thuận / Cần đề phòng)
 - **Người đi xa / Di chuyển:** dừng cửa và cư trú
 - **Hôn nhân:** chưa được phép
 - **Tai họa:** tìm công bố và hòa hợp
-- **Phúc lộc:** (không đề cập)
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Nếu sống ở nhà chỉ như một ngọn núi,
@@ -533,12 +521,10 @@ Upper Fortune (Good / Auspicious)
 **Sacred Meaning:**
 - **Health:** disease immediately departs
 - **Wealth:** out and entering is auspicious
-- **Reputation:** (not addressed)
 - **Travel / Movement:** harmony and peace
 - **Marriage:** asked and permit
 - **Misfortune:** a successful path and prosperity
 - **Blessings:** seek for prosperity
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 A person says this year is truly a victorious year,
@@ -565,7 +551,6 @@ Thượng Cát (Tốt / Cát)
 - **Hôn nhân:** hỏi và cho phép
 - **Tai họa:** một con đường thành công và thịnh vượng
 - **Phúc lộc:** tìm kiếm thịnh vượng
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Một người nói năm nay thực sự là một năm chiến thắng,

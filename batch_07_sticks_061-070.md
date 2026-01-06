@@ -11,7 +11,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 **Sacred Meaning:**
 - **Health:** gradual recovery
 - **Wealth:** average and stable
-- **Reputation:** (not addressed)
 - **Travel / Movement:** safe return
 - **Marriage:** suitable and favorable
 - **Misfortune:** naturally disperses
@@ -38,7 +37,6 @@ Trung Cát (Khá tốt / Trung cát)
 **Sacred Meaning:**
 - **Sức khỏe:** dần dần hồi phục
 - **Tài lộc:** bình thường và ổn định
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** về an toàn
 - **Hôn nhân:** thích hợp và thuận lợi
 - **Tai họa:** tự nhiên tan rã
@@ -72,7 +70,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Reputation:** worthy of praise
 - **Travel / Movement:** news will arrive
 - **Marriage:** will succeed
-- **Misfortune:** (not addressed)
 - **Blessings:** favorable in all matters
 - **Litigation:** certain victory
 
@@ -99,7 +96,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Danh tiếng:** xứng đáng được ca ngợi
 - **Người đi xa / Di chuyển:** tin tức sẽ đến
 - **Hôn nhân:** sẽ thành công
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** thuận lợi trong mọi việc
 - **Kiện tụng:** chắc chắn thắng
 
@@ -128,9 +124,7 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Health:** can be treated
 - **Wealth:** ordinary and moderate
 - **Reputation:** will be prosperous
-- **Travel / Movement:** (not addressed)
 - **Marriage:** suitable for engagement
-- **Misfortune:** (not addressed)
 - **Blessings:** follow natural proportion
 - **Litigation:** eventually peaceful
 
@@ -155,9 +149,7 @@ Trung Cát (Khá tốt / Trung cát)
 - **Sức khỏe:** có thể chữa trị
 - **Tài lộc:** bình thường và vừa phải
 - **Danh tiếng:** sẽ thịnh vượng
-- **Người đi xa / Di chuyển:** (không đề cập)
 - **Hôn nhân:** thích hợp để đính hôn
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** theo tỷ lệ tự nhiên
 - **Kiện tụng:** cuối cùng hòa bình
 
@@ -188,8 +180,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** success achieved
 - **Travel / Movement:** news arrives immediately
 - **Marriage:** very favorable
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** resolved quickly
 
 **Fortune Poem:**
@@ -215,8 +205,6 @@ Thượng Thượng (Rất tốt / Đại cát)
 - **Danh tiếng:** thành công đạt được
 - **Người đi xa / Di chuyển:** tin tức đến ngay lập tức
 - **Hôn nhân:** rất thuận lợi
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** giải quyết nhanh chóng
 
 **Bài thơ quẻ:**
@@ -304,7 +292,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** elevating high
 - **Travel / Movement:** return home
 - **Marriage:** can be sealed
-- **Misfortune:** (not addressed)
 - **Blessings:** fully obtained
 - **Litigation:** resolved quickly
 
@@ -331,7 +318,6 @@ Thượng Thượng (Rất tốt / Đại cát)
 - **Danh tiếng:** nâng cao
 - **Người đi xa / Di chuyển:** về nhà
 - **Hôn nhân:** có thể kết thúc
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** đạt được đầy đủ
 - **Kiện tụng:** giải quyết nhanh chóng
 
@@ -359,11 +345,9 @@ Average Fortune (Neutral / Mixed)
 **Sacred Meaning:**
 - **Health:** change the physician
 - **Wealth:** there are rewards
-- **Reputation:** (not addressed)
 - **Travel / Movement:** not yet returned
 - **Marriage:** delayed timing
 - **Misfortune:** harmony and reconciliation
-- **Blessings:** (not addressed)
 - **Litigation:** harmony is precious
 
 **Fortune Poem:**
@@ -386,11 +370,9 @@ Trung Bình (Bình thường / Trung bình)
 **Sacred Meaning:**
 - **Sức khỏe:** đổi bác sĩ
 - **Tài lộc:** có phần thưởng
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** chưa trở về
 - **Hôn nhân:** thời gian chậm trễ
 - **Tai họa:** hòa giải và hòa thuận
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** hòa thuận là quý giá
 
 **Bài thơ quẻ:**
@@ -416,12 +398,10 @@ Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
 - **Health:** naturally disperses
-- **Wealth:** (not addressed)
 - **Reputation:** already achieved
 - **Travel / Movement:** return home
 - **Marriage:** already settled
 - **Misfortune:** support yourself
-- **Blessings:** (not addressed)
 - **Litigation:** already won
 
 **Fortune Poem:**
@@ -443,12 +423,10 @@ Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** tự nhiên tan rã
-- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** đã đạt được
 - **Người đi xa / Di chuyển:** về nhà
 - **Hôn nhân:** đã giải quyết
 - **Tai họa:** hỗ trợ bản thân
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** đã thắng
 
 **Bài thơ quẻ:**
@@ -473,13 +451,10 @@ STICK #69
 Average Fortune (Neutral / Mixed)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** do not force pursuit
 - **Reputation:** with benefit
 - **Travel / Movement:** arrival
 - **Marriage:** difficult to harmonize
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** can cease
 
 **Fortune Poem:**
@@ -500,13 +475,10 @@ By morning, enemies follow each other once more.
 Trung Bình (Bình thường / Trung bình)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** không ép buộc theo đuổi
 - **Danh tiếng:** với lợi ích
 - **Người đi xa / Di chuyển:** đến nơi
 - **Hôn nhân:** khó hòa hợp
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** có thể ngừng
 
 **Bài thơ quẻ:**
@@ -531,13 +503,10 @@ STICK #70
 Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** wait a little
 - **Reputation:** with benefit
 - **Travel / Movement:** no news
 - **Marriage:** should delay
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** wait for divine help
 
 **Fortune Poem:**
@@ -558,13 +527,10 @@ Precisely when it is deep in the season of summer heat.
 Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** đợi một chút
 - **Danh tiếng:** với lợi ích
 - **Người đi xa / Di chuyển:** không có tin
 - **Hôn nhân:** nên chậm lại
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** đợi sự giúp đỡ thần linh
 
 **Bài thơ quẻ:**

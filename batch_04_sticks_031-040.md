@@ -130,8 +130,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Reputation:** rising with benefit
 - **Travel / Movement:** do not act rashly
 - **Marriage:** believe in adversity and obstacles
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** do not act rashly
 
 **Fortune Poem:**
@@ -189,8 +187,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Travel / Movement:** interpretation of dreams move
 - **Marriage:** can be sought
 - **Misfortune:** guard your mouth well
-- **Blessings:** (not addressed)
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Spring and summer mirror autumn and winter once again,
@@ -247,7 +243,6 @@ Poor Fortune (Unfavorable / Caution)
 - **Travel / Movement:** obstructed
 - **Marriage:** not suitable
 - **Misfortune:** will end in finality
-- **Blessings:** (not addressed)
 - **Litigation:** will end in finality
 
 **Fortune Poem:**
@@ -306,7 +301,6 @@ Upper Fortune (Good / Auspicious)
 - **Marriage:** can be suitable
 - **Misfortune:** obtain principles
 - **Blessings:** pregnancy will bring a son
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Merit and reputation, precious from the past, naturally able to act,
@@ -416,13 +410,10 @@ Poor Fortune (Unfavorable / Caution)
 
 **Sacred Meaning:**
 - **Health:** urgent and severe
-- **Wealth:** (not addressed)
-- **Reputation:** (not addressed)
 - **Travel / Movement:** not yet returned
 - **Marriage:** will not succeed
 - **Misfortune:** many strange dreams
 - **Blessings:** must ask the gods
-- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Crickets chirping alone, guarding the solitary curtain,
@@ -443,13 +434,10 @@ Hạ Hạ (Không thuận / Cần đề phòng)
 
 **Sacred Meaning:**
 - **Sức khỏe:** cấp bách và nghiêm trọng
-- **Tài lộc:** (không đề cập)
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** chưa trở về
 - **Hôn nhân:** sẽ không thành công
 - **Tai họa:** nhiều giấc mơ kỳ lạ
 - **Phúc lộc:** phải hỏi thần linh
-- **Kiện tụng:** (không đề cập)
 
 **Bài thơ quẻ:**
 Dế kêu đơn độc, canh giữ màn trướng cô đơn,
@@ -478,8 +466,6 @@ Below Average (Caution Advised)
 - **Reputation:** doubtful and suspicious
 - **Travel / Movement:** must change
 - **Marriage:** suitable to be cautious
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** suitable to explain
 
 **Fortune Poem:**
@@ -532,7 +518,6 @@ Upper Fortune (Good / Auspicious)
 
 **Sacred Meaning:**
 - **Health:** no disaster
-- **Wealth:** (not addressed)
 - **Reputation:** will achieve success
 - **Travel / Movement:** returns
 - **Marriage:** suitable and settled
@@ -559,7 +544,6 @@ Thượng Cát (Tốt / Cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** không tai họa
-- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** sẽ đạt được thành công
 - **Người đi xa / Di chuyển:** quay về
 - **Hôn nhân:** thích hợp và ổn định

@@ -14,8 +14,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Reputation:** do not pursue
 - **Travel / Movement:** slow return
 - **Marriage:** should be cautious
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** ultimately unfortunate
 
 **Fortune Poem:**
@@ -41,8 +39,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Danh tiếng:** không nên theo đuổi
 - **Người đi xa / Di chuyển:** trở về chậm
 - **Hôn nhân:** nên thận trọng
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** cuối cùng bất lợi
 
 **Bài thơ quẻ:**
@@ -72,7 +68,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** encountering recommendation
 - **Travel / Movement:** will be seen
 - **Marriage:** will succeed
-- **Misfortune:** (not addressed)
 - **Blessings:** issued due to accumulated virtue
 - **Litigation:** reason will prevail
 
@@ -99,7 +94,6 @@ Thượng Cát (Rất tốt / Thượng cát)
 - **Danh tiếng:** gặp được sự giới thiệu
 - **Người đi xa / Di chuyển:** sẽ được gặp
 - **Hôn nhân:** sẽ thành công
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** phát ra do tích đức
 - **Kiện tụng:** lý sẽ chiến thắng
 
@@ -130,7 +124,6 @@ Lower-Lower Fortune (Difficult / Inauspicious)
 - **Reputation:** do not pursue
 - **Travel / Movement:** not yet arrived
 - **Marriage:** should not discuss
-- **Misfortune:** (not addressed)
 - **Blessings:** can preserve what you have
 - **Litigation:** should seek harmony
 
@@ -157,7 +150,6 @@ Hạ Hạ (Khó khăn / Bất lợi)
 - **Danh tiếng:** không nên theo đuổi
 - **Người đi xa / Di chuyển:** chưa đến
 - **Hôn nhân:** không nên bàn luận
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** có thể bảo tồn những gì bạn có
 - **Kiện tụng:** nên tìm kiếm hòa giải
 
@@ -188,8 +180,6 @@ Average Fortune (Neutral / Mixed)
 - **Reputation:** do not be greedy
 - **Travel / Movement:** return is slow
 - **Marriage:** carefully examine further
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** should seek resolution
 
 **Fortune Poem:**
@@ -215,8 +205,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Danh tiếng:** không được tham lam
 - **Người đi xa / Di chuyển:** trở về chậm
 - **Hôn nhân:** xem xét cẩn thận hơn
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** nên tìm kiếm giải quyết
 
 **Bài thơ quẻ:**
@@ -241,9 +229,7 @@ STICK #85
 Average Fortune (Neutral / Mixed)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** do not be greedy
-- **Reputation:** (not addressed)
 - **Travel / Movement:** distant journey returning
 - **Marriage:** not favorable
 - **Misfortune:** prevent external calamity
@@ -268,9 +254,7 @@ Yet how is it that the return road becomes so dreary?
 Trung Bình (Bình thường / Trung bình)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** không được tham lam
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** hành trình xa trở về
 - **Hôn nhân:** không thuận lợi
 - **Tai họa:** ngăn chặn tai họa bên ngoài
@@ -301,11 +285,8 @@ Supreme Fortune (Excellent / Very Auspicious)
 **Sacred Meaning:**
 - **Health:** gradually stops
 - **Wealth:** abundant prosperity
-- **Reputation:** (not addressed)
 - **Travel / Movement:** return not yet decided
 - **Marriage:** harmony and agreement
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** reason prevails
 
 **Fortune Poem:**
@@ -328,11 +309,8 @@ Thượng Cát (Rất tốt / Thượng cát)
 **Sacred Meaning:**
 - **Sức khỏe:** dần dần ngừng
 - **Tài lộc:** thịnh vượng dồi dào
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** trở về chưa quyết định
 - **Hôn nhân:** hòa hợp và đồng ý
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** lý chiến thắng
 
 **Bài thơ quẻ:**
@@ -362,8 +340,6 @@ Average Fortune (Neutral / Mixed)
 - **Reputation:** none
 - **Travel / Movement:** not yet arrived
 - **Marriage:** not favorable
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** should not engage
 
 **Fortune Poem:**
@@ -389,8 +365,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Danh tiếng:** không có
 - **Người đi xa / Di chuyển:** chưa đến
 - **Hôn nhân:** không thuận lợi
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** không nên tham gia
 
 **Bài thơ quẻ:**
@@ -420,8 +394,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** follow natural conditions
 - **Travel / Movement:** will return
 - **Marriage:** harmony achieved
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** should seek harmony
 
 **Fortune Poem:**
@@ -447,8 +419,6 @@ Thượng Cát (Rất tốt / Thượng cát)
 - **Danh tiếng:** theo điều kiện tự nhiên
 - **Người đi xa / Di chuyển:** sẽ trở về
 - **Hôn nhân:** hòa hợp đạt được
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** nên tìm kiếm hòa giải
 
 **Bài thơ quẻ:**
@@ -478,8 +448,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Reputation:** late achievement
 - **Travel / Movement:** gradual return
 - **Marriage:** harmony achieved
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** can be resolved
 
 **Fortune Poem:**
@@ -505,8 +473,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Danh tiếng:** thành tựu muộn
 - **Người đi xa / Di chuyển:** dần dần trở về
 - **Hôn nhân:** hòa hợp đạt được
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** có thể giải quyết
 
 **Bài thơ quẻ:**
@@ -533,11 +499,8 @@ Average Fortune (Neutral / Mixed)
 **Sacred Meaning:**
 - **Health:** no danger
 - **Wealth:** seeking is futile
-- **Reputation:** (not addressed)
 - **Travel / Movement:** news not yet arrived
 - **Marriage:** not yet successful
-- **Misfortune:** (not addressed)
-- **Blessings:** (not addressed)
 - **Litigation:** harmony is auspicious
 
 **Fortune Poem:**
@@ -560,11 +523,8 @@ Trung Bình (Bình thường / Trung bình)
 **Sacred Meaning:**
 - **Sức khỏe:** không nguy hiểm
 - **Tài lộc:** tìm kiếm là vô ích
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** tin tức chưa đến
 - **Hôn nhân:** chưa thành công
-- **Tai họa:** (không đề cập)
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** hòa giải là cát tường
 
 **Bài thơ quẻ:**

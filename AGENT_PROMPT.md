@@ -56,8 +56,9 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - Stick #25 zodiac timing confirmed: 玉兔金鸡 = Rabbit/Rooster years or months (卯酉)
 - **CRITICAL:** After completing each batch translation, IMMEDIATELY web search to verify all call-outs before presenting to user
 - Design template verified: Stick #1 demo confirms translations fit perfectly in the final template layout
-- **Terminology standardized:** Missing sacred meanings use "(not addressed)" in English and "(không đề cập)" in Vietnamese
+- **Sacred meanings format:** Only include sacred meaning categories that are present in the canonical text. Omit missing categories entirely for cleaner presentation
 - **OCR accuracy:** ~83% of sticks matched standard texts; ~17% required major corrections via web verification
+- **CALL-OUTS documentation enhanced:** All batches now have detailed OCR corrections documentation showing before/after comparisons and web verification sources
 
 ---
 

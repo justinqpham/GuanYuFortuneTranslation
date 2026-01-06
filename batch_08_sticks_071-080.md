@@ -12,9 +12,7 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Health:** inauspicious and concerning
 - **Wealth:** time has not yet come
 - **Reputation:** gradually improving
-- **Travel / Movement:** (not addressed)
 - **Marriage:** reconciliation favorable
-- **Misfortune:** (not addressed)
 - **Blessings:** in autumn and winter
 - **Litigation:** settlement is appropriate
 
@@ -39,9 +37,7 @@ Trung Cát (Khá tốt / Trung cát)
 - **Sức khỏe:** không may và đáng lo ngại
 - **Tài lộc:** thời điểm chưa đến
 - **Danh tiếng:** dần dần cải thiện
-- **Người đi xa / Di chuyển:** (không đề cập)
 - **Hôn nhân:** hòa giải thuận lợi
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** vào mùa thu và mùa đông
 - **Kiện tụng:** giải quyết là thích hợp
 
@@ -131,7 +127,6 @@ Lowest Fortune (Inauspicious / Unfavorable)
 - **Travel / Movement:** delayed for long
 - **Marriage:** remarriage (original broken)
 - **Misfortune:** pregnancy becomes empty
-- **Blessings:** (not addressed)
 - **Litigation:** should cease
 
 **Fortune Poem:**
@@ -158,7 +153,6 @@ Hạ Hạ (Rất xấu / Đại흉)
 - **Người đi xa / Di chuyển:** chậm trễ lâu dài
 - **Hôn nhân:** tái hôn (ban đầu tan vỡ)
 - **Tai họa:** thai kỳ trở thành trống rỗng
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** nên ngừng
 
 **Bài thơ quẻ:**
@@ -184,11 +178,9 @@ Supreme Fortune (Excellent / Very Auspicious)
 
 **Sacred Meaning:**
 - **Health:** danger yet peace
-- **Wealth:** (not addressed)
 - **Reputation:** ultimate success
 - **Travel / Movement:** traveler arrives
 - **Marriage:** initially difficult, ultimately succeeds
-- **Misfortune:** (not addressed)
 - **Blessings:** naturally arise
 - **Litigation:** initially difficult, ultimately succeeds
 
@@ -211,11 +203,9 @@ Thượng Cát (Rất tốt / Thượng cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** nguy hiểm nhưng bình an
-- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** thành công tối thượng
 - **Người đi xa / Di chuyển:** người đi xa đến
 - **Hôn nhân:** ban đầu khó khăn, cuối cùng thành công
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** tự nhiên phát sinh
 - **Kiện tụng:** ban đầu khó khăn, cuối cùng thành công
 
@@ -243,7 +233,6 @@ Middle Fortune (Moderate / Fairly Auspicious)
 **Sacred Meaning:**
 - **Health:** immediate healing
 - **Wealth:** gathers and accumulates
-- **Reputation:** (not addressed)
 - **Travel / Movement:** can return
 - **Marriage:** harmonizes and unites
 - **Misfortune:** good friends arrive
@@ -270,7 +259,6 @@ Trung Cát (Khá tốt / Trung cát)
 **Sacred Meaning:**
 - **Sức khỏe:** chữa lành ngay lập tức
 - **Tài lộc:** tụ tập và tích lũy
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** có thể trở về
 - **Hôn nhân:** hòa hợp và đoàn kết
 - **Tai họa:** bạn tốt đến
@@ -301,8 +289,6 @@ Average Fortune (Neutral / Mixed)
 **Sacred Meaning:**
 - **Health:** pray early
 - **Wealth:** examine yourself
-- **Reputation:** (not addressed)
-- **Travel / Movement:** (not addressed)
 - **Marriage:** examine more carefully
 - **Misfortune:** do not use force
 - **Blessings:** rectify yourself properly
@@ -328,8 +314,6 @@ Trung Bình (Bình thường / Trung bình)
 **Sacred Meaning:**
 - **Sức khỏe:** cầu nguyện sớm
 - **Tài lộc:** kiểm tra bản thân
-- **Danh tiếng:** (không đề cập)
-- **Người đi xa / Di chuyển:** (không đề cập)
 - **Hôn nhân:** kiểm tra cẩn thận hơn
 - **Tai họa:** không sử dụng vũ lực
 - **Phúc lộc:** sửa chữa bản thân đúng cách
@@ -359,7 +343,6 @@ Lower-Middle Fortune (Below Average / Somewhat Unfavorable)
 **Sacred Meaning:**
 - **Health:** pray for relief
 - **Wealth:** not beneficial
-- **Reputation:** (not addressed)
 - **Travel / Movement:** traveler arrives
 - **Marriage:** difficult to last
 - **Misfortune:** guard against gossip
@@ -386,7 +369,6 @@ Trung Hạ (Dưới trung bình / Hơi bất lợi)
 **Sacred Meaning:**
 - **Sức khỏe:** cầu nguyện để giảm nhẹ
 - **Tài lộc:** không có lợi
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** người đi xa đến
 - **Hôn nhân:** khó kéo dài
 - **Tai họa:** đề phòng tin đồn
@@ -417,7 +399,6 @@ Lowest Fortune (Inauspicious / Unfavorable)
 **Sacred Meaning:**
 - **Health:** pray to the spirits
 - **Wealth:** do not be greedy
-- **Reputation:** (not addressed)
 - **Travel / Movement:** not yet arrived
 - **Marriage:** choose well
 - **Misfortune:** pregnancy gives birth to a son, but harms the mother
@@ -444,7 +425,6 @@ Hạ Hạ (Rất xấu / Đại凶)
 **Sacred Meaning:**
 - **Sức khỏe:** cầu nguyện với thần linh
 - **Tài lộc:** đừng tham lam
-- **Danh tiếng:** (không đề cập)
 - **Người đi xa / Di chuyển:** chưa đến
 - **Hôn nhân:** chọn lọc tốt
 - **Tai họa:** thai kỳ sinh con trai, nhưng hại mẹ
@@ -478,7 +458,6 @@ Average Fortune (Neutral / Mixed)
 - **Reputation:** seek according to principle
 - **Travel / Movement:** traveler arrives
 - **Marriage:** do not pursue rashly
-- **Misfortune:** (not addressed)
 - **Blessings:** worries can cease
 - **Litigation:** do not pursue rashly
 
@@ -505,7 +484,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Danh tiếng:** tìm kiếm theo nguyên tắc
 - **Người đi xa / Di chuyển:** người đi xa đến
 - **Hôn nhân:** đừng theo đuổi vội vàng
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** lo lắng có thể ngừng
 - **Kiện tụng:** đừng theo đuổi vội vàng
 
@@ -536,7 +514,6 @@ Average Fortune (Neutral / Mixed)
 - **Reputation:** should change plans
 - **Travel / Movement:** gradually returns
 - **Marriage:** match with another
-- **Misfortune:** (not addressed)
 - **Blessings:** do not act lightly
 - **Litigation:** resolve and harmonize
 
@@ -563,7 +540,6 @@ Trung Bình (Bình thường / Trung bình)
 - **Danh tiếng:** nên thay đổi kế hoạch
 - **Người đi xa / Di chuyển:** dần dần trở về
 - **Hôn nhân:** kết hợp với người khác
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** đừng hành động nhẹ nhàng
 - **Kiện tụng:** giải quyết và hòa giải
 

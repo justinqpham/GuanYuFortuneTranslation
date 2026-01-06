@@ -9,12 +9,10 @@ STICK #91
 Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** requires diligent effort
 - **Reputation:** gain through study
 - **Travel / Movement:** at day three-six-nine
 - **Marriage:** choose friends carefully
-- **Misfortune:** (not addressed)
 - **Blessings:** will eventually succeed
 - **Litigation:** requires effort but no blame
 
@@ -36,12 +34,10 @@ The subtle art requires patient and careful seeking.
 Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** cần nỗ lực siêng năng
 - **Danh tiếng:** đạt được qua học tập
 - **Người đi xa / Di chuyển:** vào ngày ba-sáu-chín
 - **Hôn nhân:** chọn bạn bè cẩn thận
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** cuối cùng sẽ thành công
 - **Kiện tụng:** cần nỗ lực nhưng không có lỗi
 
@@ -69,11 +65,7 @@ Middle-Lower Fortune (Below Average / Somewhat Inauspicious)
 **Sacred Meaning:**
 - **Health:** many illnesses but ultimately harmless
 - **Wealth:** difficult, must wait for the right time
-- **Reputation:** (not addressed)
-- **Travel / Movement:** (not addressed)
-- **Marriage:** (not addressed)
 - **Misfortune:** confusion for a long time, eventually resolves
-- **Blessings:** (not addressed)
 - **Litigation:** ultimately prevails
 
 **Fortune Poem:**
@@ -96,11 +88,7 @@ Trung Hạ (Dưới trung bình / Hơi hung)
 **Sacred Meaning:**
 - **Sức khỏe:** nhiều bệnh tật nhưng cuối cùng vô hại
 - **Tài lộc:** khó khăn, phải đợi đúng thời điểm
-- **Danh tiếng:** (không đề cập)
-- **Người đi xa / Di chuyển:** (không đề cập)
-- **Hôn nhân:** (không đề cập)
 - **Tai họa:** rối ren trong thời gian dài, cuối cùng giải quyết
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** cuối cùng chiến thắng
 
 **Bài thơ quẻ:**
@@ -127,10 +115,7 @@ Middle Fortune (Moderate / Fairly Auspicious)
 **Sacred Meaning:**
 - **Health:** repeatedly fluctuates
 - **Wealth:** scatters and gathers
-- **Reputation:** (not addressed)
-- **Travel / Movement:** (not addressed)
 - **Marriage:** can succeed, be cautious in coming and going
-- **Misfortune:** (not addressed)
 - **Blessings:** should accumulate merit
 - **Litigation:** advances and retreats
 
@@ -154,10 +139,7 @@ Trung Cát (Khá tốt / Trung cát)
 **Sacred Meaning:**
 - **Sức khỏe:** dao động liên tục
 - **Tài lộc:** tan rã và tụ họp
-- **Danh tiếng:** (không đề cập)
-- **Người đi xa / Di chuyển:** (không đề cập)
 - **Hôn nhân:** có thể thành công, hãy thận trọng khi đến và đi
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** nên tích lũy công đức
 - **Kiện tụng:** tiến và lùi
 
@@ -184,11 +166,9 @@ Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
 - **Health:** not yet healed
-- **Wealth:** (not addressed)
 - **Reputation:** still delayed
 - **Travel / Movement:** still obstructed
 - **Marriage:** not yet accomplished
-- **Misfortune:** (not addressed)
 - **Blessings:** meet a benefactor
 - **Litigation:** gains an advocate
 
@@ -211,11 +191,9 @@ Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** chưa lành
-- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** vẫn chậm trễ
 - **Người đi xa / Di chuyển:** vẫn bị cản trở
 - **Hôn nhân:** chưa hoàn thành
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** gặp người ân nhân
 - **Kiện tụng:** có được người bênh vực
 
@@ -241,10 +219,8 @@ STICK #95
 Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** arrives late
 - **Reputation:** late success
-- **Travel / Movement:** (not addressed)
 - **Marriage:** not yet decided
 - **Misfortune:** calamities will perish
 - **Blessings:** meet a benefactor
@@ -268,10 +244,8 @@ Only now do you obtain support from a noble person.
 Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** đến muộn
 - **Danh tiếng:** thành công muộn
-- **Người đi xa / Di chuyển:** (không đề cập)
 - **Hôn nhân:** chưa quyết định
 - **Tai họa:** tai họa sẽ tiêu diệt
 - **Phúc lộc:** gặp người ân nhân
@@ -300,11 +274,9 @@ Superior Fortune (Good / Auspicious)
 
 **Sacred Meaning:**
 - **Health:** gradually recovers
-- **Wealth:** (not addressed)
 - **Reputation:** delayed, but eventually auspicious
 - **Travel / Movement:** no specific day yet
 - **Marriage:** determined
-- **Misfortune:** (not addressed)
 - **Blessings:** after middle age, obtain children
 - **Litigation:** favorable in middle and later years
 
@@ -327,11 +299,9 @@ Thượng Cát (Tốt / Cát)
 
 **Sacred Meaning:**
 - **Sức khỏe:** dần dần hồi phục
-- **Tài lộc:** (không đề cập)
 - **Danh tiếng:** chậm trễ, nhưng cuối cùng cát tường
 - **Người đi xa / Di chuyển:** chưa có ngày cụ thể
 - **Hôn nhân:** đã quyết định
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** sau trung niên, có con cái
 - **Kiện tụng:** thuận lợi ở trung niên và sau này
 
@@ -362,7 +332,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** can be achieved
 - **Travel / Movement:** person arrives
 - **Marriage:** balanced
-- **Misfortune:** (not addressed)
 - **Blessings:** fulfills one's wishes
 - **Litigation:** immediately resolved
 
@@ -389,7 +358,6 @@ Thượng Thượng (Rất tốt / Đại cát)
 - **Danh tiếng:** có thể đạt được
 - **Người đi xa / Di chuyển:** người đến
 - **Hôn nhân:** cân bằng
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** thỏa mãn ước nguyện của mình
 - **Kiện tụng:** ngay lập tức giải quyết
 
@@ -415,13 +383,10 @@ STICK #98
 Middle Fortune (Moderate / Fairly Auspicious)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** achieving late
 - **Reputation:** late accomplishment
 - **Travel / Movement:** obstructed journey
-- **Marriage:** (not addressed)
 - **Misfortune:** all matters balanced
-- **Blessings:** (not addressed)
 - **Litigation:** calm after a long time
 
 **Fortune Poem:**
@@ -442,13 +407,10 @@ Exactly like withered wood meeting spring again.
 Trung Cát (Khá tốt / Trung cát)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** đạt được muộn
 - **Danh tiếng:** thành tựu muộn
 - **Người đi xa / Di chuyển:** hành trình bị cản trở
-- **Hôn nhân:** (không đề cập)
 - **Tai họa:** tất cả vấn đề cân bằng
-- **Phúc lộc:** (không đề cập)
 - **Kiện tụng:** bình tĩnh sau thời gian dài
 
 **Bài thơ quẻ:**
@@ -478,7 +440,6 @@ Supreme Fortune (Excellent / Very Auspicious)
 - **Reputation:** all benefit
 - **Travel / Movement:** person arrives
 - **Marriage:** auspicious benefit
-- **Misfortune:** (not addressed)
 - **Blessings:** household path prospers
 - **Litigation:** will prevail
 
@@ -505,7 +466,6 @@ Thượng Thượng (Rất tốt / Đại cát)
 - **Danh tiếng:** tất cả lợi ích
 - **Người đi xa / Di chuyển:** người đến
 - **Hôn nhân:** lợi ích cát tường
-- **Tai họa:** (không đề cập)
 - **Phúc lộc:** con đường gia đình thịnh vượng
 - **Kiện tụng:** sẽ chiến thắng
 
@@ -531,11 +491,7 @@ STICK #100
 Supreme Fortune (Excellent / Very Auspicious)
 
 **Sacred Meaning:**
-- **Health:** (not addressed)
 - **Wealth:** what I know
-- **Reputation:** (not addressed)
-- **Travel / Movement:** (not addressed)
-- **Marriage:** (not addressed)
 - **Misfortune:** safety in danger
 - **Blessings:** accumulate hidden virtue
 - **Litigation:** benefit within loss
@@ -558,11 +514,7 @@ Drawing the final stick, all affairs are suitable.
 Thượng Thượng (Rất tốt / Đại cát)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không đề cập)
 - **Tài lộc:** điều tôi biết
-- **Danh tiếng:** (không đề cập)
-- **Người đi xa / Di chuyển:** (không đề cập)
-- **Hôn nhân:** (không đề cập)
 - **Tai họa:** an toàn trong nguy hiểm
 - **Phúc lộc:** tích lũy đức ẩn
 - **Kiện tụng:** lợi ích trong mất mát
