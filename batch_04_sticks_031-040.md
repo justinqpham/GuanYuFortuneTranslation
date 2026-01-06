@@ -155,8 +155,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Danh tiếng:** tăng lên cùng lợi ích
 - **Người đi xa / Di chuyển:** không nên hành động vội vàng
 - **Hôn nhân:** tin vào nghịch cảnh và trở ngại
-- **Tai họa:** (không liệt kê riêng)
-- **Phúc lộc:** (không liệt kê riêng)
 - **Kiện tụng:** không nên hành động vội vàng
 
 **Bài thơ quẻ:**
@@ -212,8 +210,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Người đi xa / Di chuyển:** giải mộng di chuyển
 - **Hôn nhân:** có thể tìm kiếm
 - **Tai họa:** giữ miệng cẩn thận
-- **Phúc lộc:** (không liệt kê riêng)
-- **Kiện tụng:** (không liệt kê riêng)
 
 **Bài thơ quẻ:**
 Xuân hạ phản chiếu thu đông một lần nữa,
@@ -269,7 +265,6 @@ Hạ Hạ (Không thuận / Cần đề phòng)
 - **Người đi xa / Di chuyển:** bị cản trở
 - **Hôn nhân:** không thích hợp
 - **Tai họa:** sẽ kết thúc hoàn toàn
-- **Phúc lộc:** (không liệt kê riêng)
 - **Kiện tụng:** sẽ kết thúc hoàn toàn
 
 **Bài thơ quẻ:**
@@ -327,7 +322,6 @@ Thượng Cát (Tốt / Cát)
 - **Hôn nhân:** có thể thích hợp
 - **Tai họa:** đạt được nguyên tắc
 - **Phúc lộc:** có thai sẽ sinh con trai
-- **Kiện tụng:** (không liệt kê riêng)
 
 **Bài thơ quẻ:**
 Công lao và danh tiếng, quý giá từ quá khứ, tự nhiên có thể hành động,
@@ -491,8 +485,6 @@ Trung Hạ (Cần cẩn thận)
 - **Danh tiếng:** nghi ngờ và hoài nghi
 - **Người đi xa / Di chuyển:** phải thay đổi
 - **Hôn nhân:** thích hợp để thận trọng
-- **Tai họa:** (không liệt kê riêng)
-- **Phúc lộc:** (không liệt kê riêng)
 - **Kiện tụng:** thích hợp để giải thích
 
 **Bài thơ quẻ:**

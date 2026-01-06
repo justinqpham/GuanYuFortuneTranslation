@@ -273,7 +273,6 @@ Trung Cát (Khá tốt / Trung cát)
 - **Người đi xa / Di chuyển:** đến cuối
 - **Hôn nhân:** thuận lợi và cũng kết thúc tốt
 - **Tai họa:** cầu nguyện đạt được nguyên tắc
-- **Phúc lộc:** (không liệt kê riêng)
 - **Kiện tụng:** đạt được nguyên tắc
 
 **Bài thơ quẻ:**
@@ -323,8 +322,6 @@ Striving like a riding ox, gaining freedom by yourself.
 Trung Bình (Bình thường / Trung bình)
 
 **Sacred Meaning:**
-- **Sức khỏe:** (không liệt kê riêng)
-- **Tài lộc:** (không liệt kê riêng)
 - **Danh tiếng:** danh vọng và lợi ích
 - **Người đi xa / Di chuyển:** trì hoãn
 - **Hôn nhân:** không được phép
@@ -381,7 +378,6 @@ Trung Bình (Bình thường / Trung bình)
 **Sacred Meaning:**
 - **Sức khỏe:** không thuận lợi
 - **Tài lộc:** vận tài chính gặp tai ương
-- **Danh tiếng:** (không liệt kê riêng)
 - **Người đi xa / Di chuyển:** có sự cản trở và phản đối
 - **Hôn nhân:** khó thành công
 - **Tai họa:** xấu, không có lợi
@@ -436,10 +432,8 @@ Trung Cát (Khá tốt / Trung cát)
 **Sacred Meaning:**
 - **Sức khỏe:** bệnh tật, nguy hiểm và hiểm họa ẩn
 - **Tài lộc:** tài lộc dẫn đến quý nhân
-- **Danh tiếng:** (không liệt kê riêng)
 - **Người đi xa / Di chuyển:** hòa giải và bình an
 - **Hôn nhân:** thích hợp và bảo tồn
-- **Tai họa:** (không liệt kê riêng)
 - **Phúc lộc:** sắp đến
 - **Kiện tụng:** phải chia ra và mới
 
@@ -546,7 +540,6 @@ Thượng Cát (Tốt / Cát)
 **Sacred Meaning:**
 - **Sức khỏe:** bệnh lập tức rời đi
 - **Tài lộc:** ra và vào là cát tường
-- **Danh tiếng:** (không liệt kê riêng)
 - **Người đi xa / Di chuyển:** hòa hợp và bình an
 - **Hôn nhân:** hỏi và cho phép
 - **Tai họa:** một con đường thành công và thịnh vượng

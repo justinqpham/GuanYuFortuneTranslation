@@ -442,7 +442,6 @@ Thượng Cát (Tốt / Cát)
 - **Danh tiếng:** thịnh vượng và chiến thắng
 - **Người đi xa / Di chuyển:** trở về thuận lợi
 - **Hôn nhân:** thuận lợi và cát tường
-- **Tai họa:** (không liệt kê riêng)
 - **Phúc lộc:** hoàn thành và thỏa mãn
 - **Kiện tụng:** thích hợp và dễ dàng
 
