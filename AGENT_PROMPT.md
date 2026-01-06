@@ -47,6 +47,11 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 
 ### **🎉 PHASE 1 COMPLETE: All 100 sticks translated and verified! 🎉**
 
+### Recent Updates:
+- ✅ **Enhanced CALL-OUTS documentation (Batches 01-06)** - Added detailed OCR verification documentation matching Batches 07-10 format with before/after comparisons, web sources, and notable findings
+- ✅ **Cleaned up sacred meanings display** - Removed all placeholder text ("(not addressed)", "(không đề cập)", "(không liệt kê riêng)") from all 100 sticks in both English and Vietnamese for cleaner, more professional presentation
+- ✅ **All batches now consistent** - Unified documentation quality and formatting across all 10 batches
+
 ### Translation Notes & Learnings:
 - Format updated: Removed "**Fortune Rating:**" label, showing only rating and subtitle directly
 - All interpretations tailored to match fortune level tone (positive for good fortunes, cautionary but constructive for poor fortunes)
@@ -58,7 +63,7 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - Design template verified: Stick #1 demo confirms translations fit perfectly in the final template layout
 - **Sacred meanings format:** Only include sacred meaning categories that are present in the canonical text. Omit missing categories entirely for cleaner presentation
 - **OCR accuracy:** ~83% of sticks matched standard texts; ~17% required major corrections via web verification
-- **CALL-OUTS documentation enhanced:** All batches now have detailed OCR corrections documentation showing before/after comparisons and web verification sources
+- **CALL-OUTS documentation:** All batches have detailed OCR corrections documentation showing before/after comparisons, web verification sources, and notable findings for transparency and scholarly rigor
 
 ---
 
