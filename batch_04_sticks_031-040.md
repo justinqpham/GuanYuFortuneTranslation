@@ -130,8 +130,8 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Reputation:** rising with benefit
 - **Travel / Movement:** do not act rashly
 - **Marriage:** believe in adversity and obstacles
-- **Misfortune:** (not listed separately)
-- **Blessings:** (not listed separately)
+- **Misfortune:** (not addressed)
+- **Blessings:** (not addressed)
 - **Litigation:** do not act rashly
 
 **Fortune Poem:**
@@ -189,8 +189,8 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Travel / Movement:** interpretation of dreams move
 - **Marriage:** can be sought
 - **Misfortune:** guard your mouth well
-- **Blessings:** (not listed separately)
-- **Litigation:** (not listed separately)
+- **Blessings:** (not addressed)
+- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Spring and summer mirror autumn and winter once again,
@@ -247,7 +247,7 @@ Poor Fortune (Unfavorable / Caution)
 - **Travel / Movement:** obstructed
 - **Marriage:** not suitable
 - **Misfortune:** will end in finality
-- **Blessings:** (not listed separately)
+- **Blessings:** (not addressed)
 - **Litigation:** will end in finality
 
 **Fortune Poem:**
@@ -306,7 +306,7 @@ Upper Fortune (Good / Auspicious)
 - **Marriage:** can be suitable
 - **Misfortune:** obtain principles
 - **Blessings:** pregnancy will bring a son
-- **Litigation:** (not listed separately)
+- **Litigation:** (not addressed)
 
 **Fortune Poem:**
 Merit and reputation, precious from the past, naturally able to act,
@@ -478,8 +478,8 @@ Below Average (Caution Advised)
 - **Reputation:** doubtful and suspicious
 - **Travel / Movement:** must change
 - **Marriage:** suitable to be cautious
-- **Misfortune:** (not listed separately)
-- **Blessings:** (not listed separately)
+- **Misfortune:** (not addressed)
+- **Blessings:** (not addressed)
 - **Litigation:** suitable to explain
 
 **Fortune Poem:**

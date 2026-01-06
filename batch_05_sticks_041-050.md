@@ -247,7 +247,7 @@ Middle Fortune (Moderate / Fairly Auspicious)
 - **Travel / Movement:** to the end
 - **Marriage:** favorable and also ends well
 - **Misfortune:** prayer achieves principle
-- **Blessings:** (not listed separately)
+- **Blessings:** (not addressed)
 - **Litigation:** achieves principle
 
 **Fortune Poem:**
@@ -299,8 +299,8 @@ STICK #46
 Average Fortune (Neutral / Mixed)
 
 **Sacred Meaning:**
-- **Health:** (not listed separately)
-- **Wealth:** (not listed separately)
+- **Health:** (not addressed)
+- **Wealth:** (not addressed)
 - **Reputation:** fame and benefit
 - **Travel / Movement:** delayed
 - **Marriage:** not granted
@@ -359,7 +359,7 @@ Average Fortune (Neutral / Mixed)
 **Sacred Meaning:**
 - **Health:** not favorable
 - **Wealth:** financial luck meets calamity
-- **Reputation:** (not listed separately)
+- **Reputation:** (not addressed)
 - **Travel / Movement:** there is obstruction and opposition
 - **Marriage:** difficult to succeed
 - **Misfortune:** evil, not beneficial
@@ -417,10 +417,10 @@ Middle Fortune (Moderate / Fairly Auspicious)
 **Sacred Meaning:**
 - **Health:** disease, danger and hidden hazards
 - **Wealth:** wealth leads to noble person
-- **Reputation:** (not listed separately)
+- **Reputation:** (not addressed)
 - **Travel / Movement:** reconciliation and peace
 - **Marriage:** suitable and preserved
-- **Misfortune:** (not listed separately)
+- **Misfortune:** (not addressed)
 - **Blessings:** coming soon
 - **Litigation:** must come apart and new
 
@@ -533,7 +533,7 @@ Upper Fortune (Good / Auspicious)
 **Sacred Meaning:**
 - **Health:** disease immediately departs
 - **Wealth:** out and entering is auspicious
-- **Reputation:** (not listed separately)
+- **Reputation:** (not addressed)
 - **Travel / Movement:** harmony and peace
 - **Marriage:** asked and permit
 - **Misfortune:** a successful path and prosperity
@@ -594,7 +594,7 @@ Tất cả không phải là mất mát—cuộc sống và phúc lành đang l�
 
 - **Stick #44-45**: No major OCR errors detected. Poems and sacred meanings verified as accurate.
 
-- **Stick #46**: Sacred meanings verified - the original stick indeed has incomplete sacred meaning format. Health and Wealth not listed separately on this particular stick. This is an authentic variation in the temple's version, not an OCR error.
+- **Stick #46**: Sacred meanings verified - the original stick indeed has incomplete sacred meaning format. Health and Wealth not addressed on this particular stick. This is an authentic variation in the temple's version, not an OCR error.
 
 - **Stick #47**: **MAJOR OCR ERROR - MEANING REVERSED** - Poem line 4 corrected from "试于清夜把人拿" (grab/arrest people in the clear night - external confrontation) to canonical "试于清夜把心扪" (examine your heart in the quiet night - internal self-reflection). This single character difference (人 vs 心) completely reverses the fortune's meaning from aggressive action to introspective contemplation. Sacred meanings confirmed: "讼莫兴、恐遭刑、财莫贪、病未宁、行有阻、婚难成、且循理、保和平". Fortune level confirmed as 中平 (Average Fortune).
 

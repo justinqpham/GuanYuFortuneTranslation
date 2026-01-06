@@ -420,7 +420,7 @@ Upper Fortune (Good / Auspicious)
 - **Reputation:** prosperous and victorious
 - **Travel / Movement:** favorable return
 - **Marriage:** favorable and auspicious
-- **Misfortune:** (not listed separately)
+- **Misfortune:** (not addressed)
 - **Blessings:** fulfillment and satisfaction
 - **Litigation:** appropriate and easy
 
