@@ -31,10 +31,14 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 - ✅ Batch 06 (Sticks 51-60) - Verified and Confirmed
   - File: `batch_06_sticks_051-060.md`
   - Major corrections: Stick #51 poem "水到渠成" (wu wei principle), Stick #56 poem "心头理曲强词遮" (dishonesty warning), Stick #59 poem "香烟未断续螟蛉" (adopted heirs), Stick #60 poem "丹诏槐黄" (imperial decree/locust-yellow robes)
+- ✅ Batch 07 (Sticks 61-70) - Verified and Confirmed
+  - File: `batch_07_sticks_061-070.md`
+  - Major corrections: Stick #63 poem "曩时败北" complete reversal (OCR showed victory, correct is defeat recovery), Stick #62 poem multiple phrase errors, Stick #69 poem "舍舟遵路" (abandon boat not body)
+- ✅ Batch 08 (Sticks 71-80) - Verified and Confirmed
+  - File: `batch_08_sticks_071-080.md`
+  - Major corrections: Stick #73 completely wrong text with reversed lines "忆昔兰房分半钗", Stick #75 poem "富与贫" (rich vs poor, not rich vs noble)
 
 ### Pending Batches:
-- ⏳ Batch 07 (Sticks 61-70)
-- ⏳ Batch 08 (Sticks 71-80)
 - ⏳ Batch 09 (Sticks 81-90)
 - ⏳ Batch 10 (Sticks 91-100)
 
