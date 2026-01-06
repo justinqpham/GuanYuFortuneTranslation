@@ -48,6 +48,8 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
 ### **🎉 PHASE 1 COMPLETE: All 100 sticks translated and verified! 🎉**
 
 ### Recent Updates:
+- ✅ **Phase 2 Started: HTML Generation** - Successfully generated Batch 01 HTML files (Sticks 1-10) matching design template
+- ✅ **HTML Generation Guide Created** - See `HTML_GENERATION_GUIDE.md` for complete instructions on converting markdown to HTML
 - ✅ **Enhanced CALL-OUTS documentation (Batches 01-06)** - Added detailed OCR verification documentation matching Batches 07-10 format with before/after comparisons, web sources, and notable findings
 - ✅ **Cleaned up sacred meanings display** - Removed all placeholder text ("(not addressed)", "(không đề cập)", "(không liệt kê riêng)") from all 100 sticks in both English and Vietnamese for cleaner, more professional presentation
 - ✅ **All batches now consistent** - Unified documentation quality and formatting across all 10 batches
@@ -418,18 +420,44 @@ The JSON structure separates English and Vietnamese completely:
 
 ## Phase Summary
 
-**Current Phase: Phase 1 - Translation**
-- Translate all 100 sticks in batches of 10
-- Get user confirmation after each batch
-- Output: Structured translation data for all 100 sticks
+**✅ Phase 1 - COMPLETED**
+- All 100 sticks translated in batches of 10
+- All batches verified and confirmed by user
+- All OCR corrections documented with web verification
+- Output: 10 markdown files (`batch_01_sticks_001-010.md` through `batch_10_sticks_091-100.md`)
 
-**Future Phases (not yet):**
-- Phase 2: Finalize template design
-- Phase 3: Fit translations to final template
-- Phase 4: Compile into single PDF
+**🔄 Current Phase: Phase 2 - HTML Generation**
+- Convert markdown translations to individual HTML files
+- Files match design template (`design_template.html`)
+- Process one batch at a time for user verification
+- **Status:** Batch 01 (Sticks 1-10) completed and ready for verification
+- **Guide:** See `HTML_GENERATION_GUIDE.md` for complete instructions
+- Output: 100 HTML files in `output/` directory
+
+**Future Phases:**
+- Phase 3: Convert HTML to PDF (Puppeteer or similar)
+- Phase 4: Merge 100 PDFs into single final PDF (target: under 20MB)
 
 ---
 
-## Begin
+## Phase 2: HTML Generation Quick Start
+
+**For agents working on HTML generation:**
+
+1. **Read the complete guide:** `HTML_GENERATION_GUIDE.md`
+2. **Reference working script:** `generate_batch01_html.py`
+3. **Key requirement:** Sacred meanings have colon INSIDE bold markers: `- **Label:** value`
+4. **Critical regex:** `r'- \*\*([^*]+):\*\*\s*(.+)'` (colon before closing `**`)
+5. **Output location:** `output/stick_###.html`
+6. **Process:** One batch at a time, wait for user verification before next batch
+
+**Quick command:**
+```bash
+python3 generate_batch[XX]_html.py
+```
+
+---
+
+## Begin Phase 1 (Historical Reference)
 
 Start with sticks #1-10. Present the translations in the format above, including any call-outs. Wait for user confirmation before proceeding to the next batch.
