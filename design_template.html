@@ -175,7 +175,6 @@
 
     /* === FOOTER === */
     .footer {
-      text-align: center;
       padding-top: 16px;
       margin-top: auto;
       border-top: none;
@@ -185,22 +184,29 @@
     .footer-temple {
       font-size: 12px;
       font-weight: 700;
+      text-align: center;
+      margin-bottom: 4px;
+    }
+
+    .footer-address {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      font-weight: 400;
     }
 
     .footer-street {
-      font-size: 12px;
-      font-weight: 400;
       text-align: left;
+      flex: 1;
     }
     .footer-city {
-      font-size: 12px;
-      font-weight: 400;
       text-align: center;
+      flex: 1;
     }
     .footer-phone {
-      font-size: 12px;
-      font-weight: 400;
       text-align: right;
+      flex: 1;
     }
     
   </style>
@@ -311,9 +317,11 @@ Phúc lành nối tiếp, hanh thông lâu dài.</div>
   <!-- FOOTER -->
   <footer class="footer">
     <div class="footer-temple">Thien Hau Temple</div>
-    <div class="footer-street">756 Yale Street</div>
-    <div class="footer-city">Los Angeles, CA 90012</div>
-    <div class="footer-phone">(213) 680-1860</div>
+    <div class="footer-address">
+      <div class="footer-street">756 Yale Street</div>
+      <div class="footer-city">Los Angeles, CA 90012</div>
+      <div class="footer-phone">(213) 680-1860</div>
+    </div>
   </footer>
 </div>
 
