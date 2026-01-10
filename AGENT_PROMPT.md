@@ -45,10 +45,16 @@ You are translating 100 Guan Yu (关帝灵签) fortune sticks from Chinese to Vi
   - Major corrections: Stick #92 poem "禾谷" (grain harvest, not "未殼"), Stick #94 poem "巧斫轮舆梓匠工" (craftsman work complete rewrite), Stick #96 poem "子息" (children, not "子娘"), Stick #99 poem "骅骝" (fine steed)
   - Special: Stick #100 is Guan Yu's divine proclamation as "Thunder and Rain Master"
 
-### **🎉 PHASE 1 COMPLETE: All 100 sticks translated and verified! 🎉**
-### **🎉 PHASE 2 COMPLETE: All 100 HTML files generated! 🎉**
+### **🎉 ALL PHASES COMPLETE: Project finished! 🎉**
+### **✅ PHASE 1: All 100 sticks translated and verified**
+### **✅ PHASE 2: All 200 HTML files generated (100 English/Vietnamese + 100 Chinese)**
+### **✅ PHASE 3: All 200 PDFs generated and merged into 2 complete compilations**
 
 ### Recent Updates:
+- ✅ **Phase 3 COMPLETE: All PDFs generated** - 200 individual PDFs + 2 merged compilations
+- ✅ **Chinese version COMPLETE** - 100 Chinese-only fortune sticks with traditional characters
+- ✅ **Technical documentation added** - Critical issues and solutions documented in README.md
+- ✅ **Project cleanup** - Removed temporary files, organized output directory
 - ✅ **Phase 2 COMPLETE: All 100 HTML files generated** - Successfully converted all markdown translations to HTML matching design template
 - ✅ **HTML Generation Guide Created** - See `HTML_GENERATION_GUIDE.md` for complete instructions on converting markdown to HTML
 - ✅ **Generation Scripts Created** - `generate_batch01_html.py` through `generate_batch10_html.py` with automated configuration
@@ -430,19 +436,29 @@ The JSON structure separates English and Vietnamese completely:
 
 **✅ Phase 2 - COMPLETED**
 - All 100 markdown translations converted to individual HTML files
-- Files match design template (`design_template.html`) perfectly
+- All 100 Chinese HTML files generated from canonical sources
+- Files match design templates (`design_template.html` and `design_template_chinese.html`) perfectly
 - All batches (01-10) processed successfully
 - **Guide:** See `HTML_GENERATION_GUIDE.md` for complete instructions
-- **Output:** 100 HTML files in `output/` directory (stick_001.html - stick_100.html)
+- **Output:** 200 HTML files in `output/` directory
+  - English/Vietnamese: stick_001.html - stick_100.html
+  - Chinese: stick_001_chinese.html - stick_100_chinese.html
 - **Summary:** See `PHASE_2_SUMMARY.md` for detailed completion report
 
-**🔄 Current Phase: Phase 3 - PDF Conversion**
-- Convert HTML files to individual PDFs
-- Maintain exact layout and typography
-- Target: Each PDF ~20-30KB, total under 20MB
+**✅ Phase 3 - COMPLETED**
+- All 200 HTML files converted to individual PDFs
+- English/Vietnamese: ~82KB each, total 8.1MB merged
+- Chinese: ~290KB each (larger due to Chinese fonts), total 25MB merged
+- **Output:** 202 PDF files total
+  - 200 individual PDFs in `output/pdfs/`
+  - 2 merged compilations: `GuanYu_Fortune_Sticks_Complete.pdf` and `GuanYu_Fortune_Sticks_Chinese_Complete.pdf`
+- **Summary:** See `PHASE_3_SUMMARY.md` for detailed completion report
+- **Critical fixes:** See README.md "Critical Technical Issues & Solutions" section
 
-**Future Phase:**
-- Phase 4: Merge 100 PDFs into single final PDF
+**✅ Phase 4 - COMPLETED**
+- PDF merging completed using macOS join utility
+- Both English/Vietnamese and Chinese versions merged successfully
+- Final deliverables ready for distribution
 
 ---
 
@@ -450,6 +466,7 @@ The JSON structure separates English and Vietnamese completely:
 
 **For agents working on HTML generation:**
 
+### English/Vietnamese:
 1. **Read the complete guide:** `HTML_GENERATION_GUIDE.md`
 2. **Reference working script:** `generate_batch01_html.py`
 3. **Key requirement:** Sacred meanings have colon INSIDE bold markers: `- **Label:** value`
@@ -459,8 +476,68 @@ The JSON structure separates English and Vietnamese completely:
 
 **Quick command:**
 ```bash
-python3 generate_batch[XX]_html.py
+python3 scripts/generate_batch[XX]_html.py
 ```
+
+### Chinese:
+1. **Source file:** `guan_yu_fortune_sticks_chinese.md`
+2. **Template:** `design_template_chinese.html`
+3. **Generation script:** `scripts/generate_all_chinese_html.py`
+4. **Output location:** `output/stick_###_chinese.html`
+5. **Font:** Noto Serif TC (Traditional Chinese) via Google Fonts
+6. **Number format:** Regular numbers (1-100), not Roman numerals
+
+**Quick command:**
+```bash
+python3 scripts/generate_all_chinese_html.py
+```
+
+---
+
+## Phase 3: PDF Conversion Critical Issues
+
+**⚠️ CRITICAL: Read these before generating PDFs**
+
+### Issue 1: Blank Pages (BOTH versions affected)
+**Problem:** PDFs will have 200 pages (100 content + 100 blank) without proper CSS.
+
+**Fix:** Ensure templates have this CSS in `@media print`:
+```css
+.page {
+  page-break-after: avoid;  /* CRITICAL */
+  overflow: hidden;          /* CRITICAL */
+}
+```
+
+**Files:** `design_template.html` and `design_template_chinese.html`
+
+### Issue 2: Chinese PDFs Empty Content
+**Problem:** Chinese PDFs show only frame border, no text (17KB vs 290KB).
+
+**Root cause:** Google Fonts not loaded before PDF generation.
+
+**Fix:** MUST use `--virtual-time-budget=10000` flag:
+```bash
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+  --headless \
+  --disable-gpu \
+  --print-to-pdf="output.pdf" \
+  --print-to-pdf-no-header \
+  --no-margins \
+  --virtual-time-budget=10000 \  # CRITICAL for web fonts
+  "file://input.html"
+```
+
+**When to use:** ANY PDF generation with external fonts (Google Fonts, Adobe Fonts, etc.)
+
+### Issue 3: Roman Numeral Parsing (Chinese generation)
+**Problem:** Only 39 of 100 sticks extracted from markdown.
+
+**Root cause:** Regex `[IVX]+` missing L (50) and C (100).
+
+**Fix:** Use `[IVXLC]+` for numbers 1-100.
+
+**Full details:** See README.md "Critical Technical Issues & Solutions" section.
 
 ---
 
