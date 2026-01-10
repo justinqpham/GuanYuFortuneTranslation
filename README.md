@@ -106,16 +106,13 @@ open guan_yu_fortune_sticks_chinese.md
 │   └── batch_10_sticks_091-100.md
 │
 ├── scripts/                                  # Generation and conversion scripts
-│   ├── generate_batch01_html.py              # English/Vietnamese batch scripts
+│   ├── generate_batch01_html.py              # English/Vietnamese batch scripts (10 files)
 │   ├── ...
 │   ├── generate_batch10_html.py
-│   ├── generate_chinese_stick01.py           # Chinese test script
-│   ├── generate_all_chinese_html.py          # Chinese batch generation
+│   ├── generate_all_chinese_html.py          # Chinese batch generation (all 100)
 │   ├── convert_html_to_pdf.sh                # English/Vietnamese PDF conversion
 │   ├── convert_chinese_html_to_pdf.sh        # Chinese PDF conversion
-│   ├── merge_pdfs.sh                         # PDF merging utility
-│   ├── remove_chinese_sections.py
-│   └── update_batch_scripts.py
+│   └── merge_pdfs.sh                         # PDF merging utility
 │
 ├── output/                                   # Generated output files
 │   ├── stick_001.html                        # English/Vietnamese HTML (100 files)
@@ -437,7 +434,7 @@ Each fortune stick contains:
 - **Total PDF size:** 33.1MB (8.1MB English/Vietnamese + 25MB Chinese merged)
 - **Major corrections:** 17% of sticks required OCR fixes
 - **Chinese sources:** k366.com, 51chouqian.com, nongli.com, zhouyi.cc
-- **Generation scripts:** 13 total (10 batch scripts + 3 Chinese generation scripts)
+- **Generation scripts:** 14 total (10 English/Vietnamese batch scripts + 1 Chinese batch script + 3 conversion/merge scripts)
 
 ## License
 
