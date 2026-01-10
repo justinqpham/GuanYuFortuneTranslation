@@ -19,12 +19,12 @@ This project translates classical Chinese fortune divination texts into English 
 ## Deliverables
 
 ### 1. Translations (Markdown)
-- **Location:** 10 batch files (`batch_01_sticks_001-010.md` through `batch_10_sticks_091-100.md`)
+- **Location:** `translation_batches/` directory (10 batch files: `batch_01_sticks_001-010.md` through `batch_10_sticks_091-100.md`)
 - **Content:** Bilingual translations with fortune ratings, sacred meanings, poems, and interpretations
 - **Format:** Structured markdown with English and Vietnamese columns
 
 ### 2. Web Format (HTML)
-- **Location:** `output/` directory (100 files: `stick_001.html` - `stick_100.html`)
+- **Location:** `output/htmls/` directory (100 files: `stick_001.html` - `stick_100.html`)
 - **Features:**
   - Two-column layout (English/Vietnamese)
   - Letter size (8.5" × 11") optimized for printing
@@ -43,7 +43,7 @@ This project translates classical Chinese fortune divination texts into English 
 
 **HTML (Web):**
 ```bash
-open output/stick_001.html
+open output/htmls/stick_001.html
 ```
 
 **PDF (Print):**
@@ -67,31 +67,35 @@ open GuanYu_Fortune_Sticks_Complete.pdf
 ├── PHASE_2_SUMMARY.md                 # HTML generation completion report
 ├── PHASE_3_SUMMARY.md                 # PDF conversion completion report
 │
-├── batch_01_sticks_001-010.md         # Translation batches (10 files)
-├── batch_02_sticks_011-020.md
-├── ...
-├── batch_10_sticks_091-100.md
+├── translation_batches/               # Translation markdown files
+│   ├── batch_01_sticks_001-010.md
+│   ├── batch_02_sticks_011-020.md
+│   ├── ...
+│   └── batch_10_sticks_091-100.md
+│
+├── scripts/                           # Generation and conversion scripts
+│   ├── generate_batch01_html.py
+│   ├── ...
+│   ├── generate_batch10_html.py
+│   ├── convert_html_to_pdf.sh
+│   ├── merge_pdfs.sh
+│   └── ...
 │
 ├── design_template.html               # HTML template reference
-├── generate_batch01_html.py           # HTML generation scripts (10 files)
-├── ...
-├── generate_batch10_html.py
 │
-├── convert_html_to_pdf.sh             # PDF conversion script
-├── merge_pdfs.sh                      # PDF merging script
-│
-├── output/                            # Generated HTML files
-│   ├── stick_001.html
-│   ├── ...
-│   ├── stick_100.html
-│   └── pdfs/                          # Individual PDF files
+├── output/                            # Generated output files
+│   ├── htmls/                         # HTML files (100 files)
+│   │   ├── stick_001.html
+│   │   ├── ...
+│   │   └── stick_100.html
+│   └── pdfs/                          # Individual PDF files (100 files)
 │       ├── stick_001.pdf
 │       ├── ...
 │       └── stick_100.pdf
 │
 ├── GuanYu_Fortune_Sticks_Complete.pdf # Final merged PDF
 │
-└── images/                            # Source JPG images (100 files)
+└── source_images/                     # Source JPG images (100 files)
     ├── 001.jpg
     ├── ...
     └── 100.jpg
@@ -132,13 +136,13 @@ See individual batch files for complete correction documentation.
 ### Generate HTML Files
 ```bash
 # Generate all batches
-python3 generate_batch01_html.py
-python3 generate_batch02_html.py
+python3 scripts/generate_batch01_html.py
+python3 scripts/generate_batch02_html.py
 # ... continue through batch 10
 
 # Or use a loop
 for i in {01..10}; do
-    python3 generate_batch${i}_html.py
+    python3 scripts/generate_batch${i}_html.py
 done
 ```
 
@@ -158,13 +162,13 @@ done
 
 **Individual PDFs:**
 ```bash
-./convert_html_to_pdf.sh
+./scripts/convert_html_to_pdf.sh
 ```
 Output: 100 PDF files in `output/pdfs/`
 
 **Merge into single PDF:**
 ```bash
-./merge_pdfs.sh
+./scripts/merge_pdfs.sh
 ```
 Output: `GuanYu_Fortune_Sticks_Complete.pdf`
 
