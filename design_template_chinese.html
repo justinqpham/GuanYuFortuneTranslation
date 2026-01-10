@@ -9,26 +9,26 @@
   <!-- Using Noto Serif TC for traditional Chinese characters -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
   <style>
-    * {
+    * {{
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-    }
+    }}
 
-    @page {
+    @page {{
       size: letter;
       margin: 0;
-    }
+    }}
 
-    body {
+    body {{
       font-family: 'Noto Serif TC', 'Microsoft YaHei', 'PingFang TC', 'Heiti TC', serif;
       font-size: 14px;
       line-height: 1.8;
       color: #000;
       background: #f5f5f5;
-    }
+    }}
 
-    .page {
+    .page {{
       width: 8.5in;
       height: 11in;
       background: white;
@@ -37,9 +37,9 @@
       display: flex;
       flex-direction: column;
       position: relative;
-    }
+    }}
 
-    .frame-border {
+    .frame-border {{
       position: absolute;
       top: 0;
       left: 0;
@@ -47,146 +47,162 @@
       height: 100%;
       pointer-events: none;
       z-index: 1000;
-    }
+    }}
 
-    .frame-border svg {
+    .frame-border svg {{
       width: 100%;
       height: 100%;
-    }
+    }}
 
     /* For PDF generation, remove margin */
-    @media print {
-      body {
+    @media print {{
+      body {{
         background: white;
-      }
-      .page {
+      }}
+      .page {{
         margin: 0;
         padding: 32px 80px;
-      }
-    }
+        page-break-after: avoid;
+        overflow: hidden;
+      }}
+    }}
 
     /* === HEADER SECTION === */
-    .header {
+    .header {{
       text-align: center;
       margin-bottom: 36px;
       padding-top: 24px;
-    }
+    }}
 
-    .header-title {
+    .header-title {{
       font-size: 56px;
       font-weight: 900;
       letter-spacing: 8px;
       margin-bottom: 16px;
-    }
+    }}
 
-    .stick-number {
+    .stick-number {{
       font-size: 36px;
       font-weight: 900;
       line-height: 1;
       letter-spacing: 4px;
       margin-bottom: 80px;
-    }
+    }}
 
     /* === MAIN CONTENT === */
-    .content {
+    .content {{
       max-width: 550px;
       margin: 0 auto;
       flex: 1;
       display: flex;
       flex-direction: column;
-    }
+    }}
 
     /* === FORTUNE RATING === */
-    .fortune-rating {
+    .fortune-rating {{
       text-align: center;
       margin-bottom: 20px;
-    }
+    }}
 
-    .fortune-rating-title {
+    .fortune-rating-title {{
       font-size: 36px;
       font-weight: 900;
       letter-spacing: 4px;
       margin-bottom: 4px;
-    }
+    }}
 
-    .fortune-rating-subtitle {
+    .fortune-rating-subtitle {{
       font-size: 16px;
       font-weight: 500;
       letter-spacing: 2px;
-    }
+    }}
 
     /* === SECTIONS === */
-    .section {
+    .section {{
       margin-bottom: 20px;
-    }
+    }}
 
-    .section-title {
+    .section-title {{
       font-size: 18px;
       font-weight: 700;
       text-align: center;
       margin-bottom: 8px;
       letter-spacing: 6px;
-    }
+    }}
 
-    .section-content {
+    .section-content {{
       font-size: 14px;
       font-weight: 400;
       text-align: justify;
       line-height: 2;
-    }
+    }}
 
     /* Sacred Meaning - special formatting */
-    .sacred-meaning-content {
+    .sacred-meaning-content {{
       text-align: center;
       line-height: 1.6;
       font-size: 13px;
       letter-spacing: 1px;
-    }
+    }}
 
     /* Fortune Poem */
-    .poem {
+    .poem {{
       font-style: normal;
-    }
+    }}
 
-    .poem-stanza {
+    .poem-stanza {{
       margin-bottom: 8px;
       white-space: pre-line;
       text-align: center;
       line-height: 2.2;
       font-size: 15px;
-    }
+    }}
 
     /* Interpretation section */
-    .interpretation-content {
+    .interpretation-content {{
       text-indent: 2em;
       text-align: center;
       line-height: 2.2;
       font-size: 14px;
-    }
+    }}
 
  
   
     /* === FOOTER === */
-    .footer {
-      text-align: center;
-      padding-top: 20px;
+    .footer {{
+      padding-top: 16px;
       margin-top: auto;
       border-top: none;
-      padding-bottom: 24px;
-    }
+      padding-bottom: 20px;
+    }}
 
-    .footer-temple {
-      font-size: 14px;
+    .footer-temple {{
+      font-size: 12px;
       font-weight: 700;
-      letter-spacing: 2px;
+      text-align: center;
       margin-bottom: 4px;
-    }
+    }}
 
-    .footer-address {
+    .footer-address {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       font-size: 12px;
       font-weight: 400;
-      letter-spacing: 0.5px;
-    }
+    }}
+
+    .footer-street {{
+      text-align: left;
+      flex: 1;
+    }}
+    .footer-city {{
+      text-align: center;
+      flex: 1;
+    }}
+    .footer-phone {{
+      text-align: right;
+      flex: 1;
+    }}
   </style>
 </head>
 <body>
@@ -202,44 +218,45 @@
   <!-- HEADER -->
   <header class="header">
     <div class="header-title">關聖帝君靈籤</div>
-    <div class="stick-number">第一籤 I</div>
+    <div class="stick-number">{stick_num}</div>
   </header>
 
   <!-- MAIN CONTENT -->
   <main class="content">
     <!-- FORTUNE RATING -->
     <div class="fortune-rating">
-      <div class="fortune-rating-title">甲甲 大吉</div>
+      <div class="fortune-rating-title">{rating}</div>
     </div>
 
     <!-- SACRED MEANING -->
     <div class="section">
       <div class="section-title">聖意</div>
-      <div class="sacred-meaning-content">功名遂、福祿全、訟得理、病即痊<br>桑麻熟、婚姻圓、孕生子、行人還</div>
+      <div class="sacred-meaning-content">{sacred_meaning}</div>
     </div>
 
     <!-- FORTUNE POEM -->
     <div class="section">
       <div class="section-title">籤詩</div>
       <div class="poem section-content">
-        <div class="poem-stanza">巍巍獨步向雲間，
-玉殿千官第一班，
-富貴榮華天付汝，
-福如東海壽如山。</div>
+        <div class="poem-stanza">{poem}</div>
       </div>
     </div>
 
     <!-- INTERPRETATION -->
     <div class="section">
       <div class="section-title">解籤</div>
-      <div class="interpretation-content">此籤象徵「平步青雲」，一切皆可如願實現，福祿壽喜均圓滿。強調「須要人地相當則應」，需天時、地利、人和三者合一方能無往不利。</div>
+      <div class="interpretation-content">{interpretation}</div>
     </div>
   </main>
 
   <!-- FOOTER -->
   <footer class="footer">
-    <div class="footer-temple">天后宮</div>
-    <div class="footer-address">756 Yale Street Los Angeles, CA 90012 · (213) 680-1860</div>
+    <div class="footer-temple">Thien Hau Temple</div>
+    <div class="footer-address">
+      <div class="footer-street">756 Yale Street</div>
+      <div class="footer-city">Los Angeles, CA 90012</div>
+      <div class="footer-phone">(213) 680-1860</div>
+    </div>
   </footer>
 </div>
 

@@ -61,14 +61,20 @@
       .page {{
         margin: 0;
         padding: 24px 60px;
+        page-break-after: avoid;
+        overflow: hidden;
       }}
     }}
 
     /* === HEADER SECTION === */
     .header {{
-      text-align: center;
-      margin-bottom: 24px;
+      text-align: left;
       padding-top: 20px;
+    }}
+
+    .header-group {{
+      display: inline-block;
+      text-align: center;
     }}
 
     .header-title {{
@@ -238,9 +244,11 @@
 
   <!-- HEADER -->
   <header class="header">
-    <div class="header-title">Emperor Guan Divination Reading</div>
-    <div class="header-title-vn">Linh Quẻ Quan Thánh Đế Quân</div>
-    <div class="stick-number">65</div>
+    <div class="header-group">
+      <div class="header-title">Emperor Guan Divination Reading</div>
+      <div class="header-title-vn">Linh Quẻ Quan Thánh Đế Quân</div>
+      <div class="stick-number">{stick_num}</div>
+    </div>
   </header>
 
   <!-- MAIN CONTENT -->
@@ -248,44 +256,28 @@
     <!-- ENGLISH COLUMN -->
     <div class="column column-english">
       <div class="fortune-rating">
-        <div class="fortune-rating-title">Supreme Fortune</div>
-        <div class="fortune-rating-subtitle">(Excellent / Very Auspicious)</div>
+        <div class="fortune-rating-title">{en_rating}</div>
+        <div class="fortune-rating-subtitle">({en_subtitle})</div>
       </div>
 
       <div class="section">
         <div class="section-title">Sacred meaning</div>
         <ul class="meaning-list section-content">
-          <li><span class="meaning-label">Health:</span> safety and recovery</li>
-          <li><span class="meaning-label">Wealth:</span> abundant gains</li>
-          <li><span class="meaning-label">Reputation:</span> rising</li>
-          <li><span class="meaning-label">Travel / movement:</span> favorable</li>
-          <li><span class="meaning-label">Marriage:</span> suitable to pursue</li>
-          <li><span class="meaning-label">Misfortune:</span> dissolves</li>
-          <li><span class="meaning-label">Blessings:</span> increase</li>
-          <li><span class="meaning-label">Litigation:</span> highly favorable</li>
+{en_sacred_meanings}
         </ul>
       </div>
 
       <div class="section">
         <div class="poem-title">Fortune Poem</div>
         <div class="poem section-content">
-          <div class="poem-stanza">Spring winds gradually replace winter's cold,
-Joyful energy fills the household gate.
-A newcomer arrives bearing good news,
-And what follows unfolds in harmony.</div>
-          <div class="poem-stanza">Words may be plain, yet they are trustworthy.
-First comes tolerance, then fulfillment.
-The old fortune fades, the new one emerges,
-Blessings continue and success endures.</div>
+          <div class="poem-stanza">{en_poem}</div>
         </div>
       </div>
 
       <div class="section">
         <div class="section-title">Interpretation</div>
         <ul class="interpretation-list section-content">
-          <li>This is the highest category of fortune in temple divination. It is rare and unambiguous.</li>
-          <li>This slip signals a clear transition from hardship to expansion. Not a warning. Not a test.</li>
-          <li>The emphasis is on new people, new phase, and compounding good fortune, not sudden luck but sustained momentum.</li>
+{en_interpretation}
         </ul>
       </div>
     </div>
@@ -293,44 +285,28 @@ Blessings continue and success endures.</div>
     <!-- VIETNAMESE COLUMN -->
     <div class="column column-vietnamese">
       <div class="fortune-rating">
-        <div class="fortune-rating-title">Thượng Thượng</div>
-        <div class="fortune-rating-subtitle">(Đại Cát / Rất tốt)</div>
+        <div class="fortune-rating-title">{vn_rating}</div>
+        <div class="fortune-rating-subtitle">({vn_subtitle})</div>
       </div>
 
       <div class="section">
         <div class="section-title">Thánh ý</div>
         <ul class="meaning-list section-content">
-          <li><span class="meaning-label">Sức khỏe:</span> sẽ bình an</li>
-          <li><span class="meaning-label">Tài lộc:</span> thu được nhiều</li>
-          <li><span class="meaning-label">Danh tiếng:</span> đang lên cao</li>
-          <li><span class="meaning-label">Người đi xa / di chuyển:</span> thuận lợi</li>
-          <li><span class="meaning-label">Hôn nhân:</span> có thể hỏi (điềm tốt)</li>
-          <li><span class="meaning-label">Tai họa:</span> tiêu tan</li>
-          <li><span class="meaning-label">Phúc lộc:</span> tăng thêm</li>
-          <li><span class="meaning-label">Kiện tụng:</span> rất thích hợp</li>
+{vn_sacred_meanings}
         </ul>
       </div>
 
       <div class="section">
         <div class="poem-title">Bài thơ quẻ</div>
         <div class="poem section-content">
-          <div class="poem-stanza">Gió xuân dần ấm, xua tan rét đông,
-Cảnh cửa nhà rực rỡ, khí vui dồi dào.
-Người mới bước vào mang theo tin tốt,
-Mọi việc về sau đều thuận hòa.</div>
-          <div class="poem-stanza">Lời nói tuy giản dị nhưng đáng tin,
-Trước thì dung hòa, sau thì thành tựu.
-Vận cũ suy tàn, vận mới mở ra,
-Phúc lành nối tiếp, hanh thông lâu dài.</div>
+          <div class="poem-stanza">{vn_poem}</div>
         </div>
       </div>
 
       <div class="section">
         <div class="section-title">Ý nghĩa</div>
         <ul class="interpretation-list section-content">
-          <li>Vận đã đổi chiều. Giai đoạn khó khăn đã qua. Từ suy sang thịnh, việc cũ khép lại, việc mới mở ra. Không phải may mắn bất ngờ mà là kết quả của thời gian và nhẫn nại.</li>
-          <li>Người mới mang cơ hội. Sẽ có người hoặc mối duyên mới xuất hiện, đem theo tin tốt hoặc mở nút thắt cũ. Cơ hội đến thông qua con người, không phải ngẫu nhiên.</li>
-          <li>Phúc đến theo chuỗi. Làm đúng một bước sẽ kéo theo nhiều việc thuận lợi sau đó. Giữ hòa khí, chữ tín và tiến chậm mà chắc thì kết quả vượt mong đợi.</li>
+{vn_interpretation}
         </ul>
       </div>
     </div>
