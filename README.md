@@ -19,9 +19,11 @@ This project translates classical Chinese fortune divination texts into English 
 ## Deliverables
 
 ### 1. Translations (Markdown)
-- **Location:** `translation_batches/` directory (10 batch files: `batch_01_sticks_001-010.md` through `batch_10_sticks_091-100.md`)
+- **English/Vietnamese:** `translation_batches/` directory (10 batch files: `batch_01_sticks_001-010.md` through `batch_10_sticks_091-100.md`)
+- **Chinese Reference:** `guan_yu_fortune_sticks_chinese.md` (complete 100 sticks with canonical Chinese text)
 - **Content:** Bilingual translations with fortune ratings, sacred meanings, poems, and interpretations
 - **Format:** Structured markdown with English and Vietnamese columns
+- **Chinese Source:** Web-verified from k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ### 2. Web Format (HTML)
 - **Location:** `output/htmls/` directory (100 files: `stick_001.html` - `stick_100.html`)
@@ -53,49 +55,58 @@ open output/pdfs/stick_001.pdf
 
 ### Viewing Complete Collection
 
+**PDF (All 100 sticks):**
 ```bash
 open GuanYu_Fortune_Sticks_Complete.pdf
+```
+
+**Chinese Reference (Canonical texts):**
+```bash
+open guan_yu_fortune_sticks_chinese.md
 ```
 
 ## File Structure
 
 ```
 .
-├── README.md                          # This file
-├── AGENT_PROMPT.md                    # Complete project documentation
-├── HTML_GENERATION_GUIDE.md           # HTML generation instructions
-├── PHASE_2_SUMMARY.md                 # HTML generation completion report
-├── PHASE_3_SUMMARY.md                 # PDF conversion completion report
+├── README.md                                 # This file
+├── AGENT_PROMPT.md                           # Complete project documentation
+├── HTML_GENERATION_GUIDE.md                  # HTML generation instructions
+├── PHASE_2_SUMMARY.md                        # HTML generation completion report
+├── PHASE_3_SUMMARY.md                        # PDF conversion completion report
 │
-├── translation_batches/               # Translation markdown files
+├── guan_yu_fortune_sticks_chinese.md         # Chinese reference (all 100 sticks)
+├── design_template.html                      # HTML template reference
+├── DivinationReadingTemplate.png             # Original design reference
+│
+├── translation_batches/                      # English/Vietnamese translations
 │   ├── batch_01_sticks_001-010.md
 │   ├── batch_02_sticks_011-020.md
 │   ├── ...
 │   └── batch_10_sticks_091-100.md
 │
-├── scripts/                           # Generation and conversion scripts
+├── scripts/                                  # Generation and conversion scripts
 │   ├── generate_batch01_html.py
 │   ├── ...
 │   ├── generate_batch10_html.py
 │   ├── convert_html_to_pdf.sh
 │   ├── merge_pdfs.sh
-│   └── ...
+│   ├── remove_chinese_sections.py
+│   └── update_batch_scripts.py
 │
-├── design_template.html               # HTML template reference
-│
-├── output/                            # Generated output files
-│   ├── htmls/                         # HTML files (100 files)
+├── output/                                   # Generated output files
+│   ├── htmls/                                # HTML files (100 files)
 │   │   ├── stick_001.html
 │   │   ├── ...
 │   │   └── stick_100.html
-│   └── pdfs/                          # Individual PDF files (100 files)
+│   └── pdfs/                                 # Individual PDF files (100 files)
 │       ├── stick_001.pdf
 │       ├── ...
 │       └── stick_100.pdf
 │
-├── GuanYu_Fortune_Sticks_Complete.pdf # Final merged PDF
+├── GuanYu_Fortune_Sticks_Complete.pdf        # Final merged PDF (6.84MB)
 │
-└── source_images/                     # Source JPG images (100 files)
+└── source_images/                            # Source JPG images (100 files)
     ├── 001.jpg
     ├── ...
     └── 100.jpg
@@ -224,12 +235,14 @@ Each fortune stick contains:
 
 - **Total sticks:** 100
 - **Languages:** English, Vietnamese (from Classical Chinese)
-- **Markdown files:** 10 (batches of 10 sticks each)
+- **Chinese reference:** 1 complete file with canonical texts
+- **Markdown files:** 11 total (10 translation batches + 1 Chinese reference)
 - **HTML files:** 100 (individual sticks)
 - **PDF files:** 101 (100 individual + 1 merged)
 - **Total HTML size:** ~1.5MB
 - **Total PDF size:** 6.84MB (merged)
 - **Major corrections:** 17% of sticks required OCR fixes
+- **Chinese sources:** k366.com, 51chouqian.com, nongli.com, zhouyi.cc
 
 ## License
 
