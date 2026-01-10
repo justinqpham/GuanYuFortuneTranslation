@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>關聖帝君靈籤</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Using Noto Serif TC for traditional Chinese characters -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    @page {
+      size: letter;
+      margin: 0;
+    }
+
+    body {
+      font-family: 'Noto Serif TC', 'Microsoft YaHei', 'PingFang TC', 'Heiti TC', serif;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #000;
+      background: #f5f5f5;
+    }
+
+    .page {
+      width: 8.5in;
+      height: 11in;
+      background: white;
+      padding: 32px 80px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    /* For PDF generation, remove margin */
+    @media print {
+      body {
+        background: white;
+      }
+      .page {
+        margin: 0;
+        padding: 32px 80px;
+      }
+    }
+
+    /* === HEADER SECTION === */
+    .header {
+      text-align: center;
+      margin-bottom: 28px;
+      padding-top: 24px;
+    }
+
+    .header-title {
+      font-size: 24px;
+      font-weight: 900;
+      letter-spacing: 8px;
+      margin-bottom: 6px;
+    }
+
+    .stick-number {
+      font-size: 56px;
+      font-weight: 900;
+      line-height: 1;
+      letter-spacing: 4px;
+    }
+
+    /* === MAIN CONTENT === */
+    .content {
+      max-width: 550px;
+      margin: 0 auto;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* === FORTUNE RATING === */
+    .fortune-rating {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .fortune-rating-title {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      margin-bottom: 4px;
+    }
+
+    .fortune-rating-subtitle {
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 2px;
+    }
+
+    /* === SECTIONS === */
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 8px;
+      letter-spacing: 6px;
+    }
+
+    .section-content {
+      font-size: 14px;
+      font-weight: 400;
+      text-align: justify;
+      line-height: 2;
+    }
+
+    /* Sacred Meaning - special formatting */
+    .sacred-meaning-content {
+      text-align: center;
+      line-height: 1.6;
+      font-size: 13px;
+      letter-spacing: 1px;
+    }
+
+    /* Fortune Poem */
+    .poem {
+      font-style: normal;
+    }
+
+    .poem-stanza {
+      margin-bottom: 8px;
+      white-space: pre-line;
+      text-align: center;
+      line-height: 2.2;
+      font-size: 15px;
+    }
+
+    /* Interpretation section */
+    .interpretation-content {
+      text-indent: 2em;
+      text-align: justify;
+      line-height: 2.2;
+      font-size: 14px;
+    }
+
+    /* Historical Allusion */
+    .allusion-content {
+      text-align: center;
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 2px;
+    }
+
+    /* === FOOTER === */
+    .footer {
+      text-align: center;
+      padding-top: 20px;
+      margin-top: auto;
+      border-top: none;
+      padding-bottom: 24px;
+    }
+
+    .footer-temple {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      margin-bottom: 4px;
+    }
+
+    .footer-address {
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 0.5px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="page">
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-title">關聖帝君靈籤</div>
+    <div class="stick-number">第一籤 I</div>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main class="content">
+    <!-- FORTUNE RATING -->
+    <div class="fortune-rating">
+      <div class="fortune-rating-title">甲甲 大吉</div>
+    </div>
+
+    <!-- HISTORICAL ALLUSION -->
+    <div class="section">
+      <div class="section-title">典故</div>
+      <div class="allusion-content">十八學士登瀛洲</div>
+    </div>
+
+    <!-- SACRED MEANING -->
+    <div class="section">
+      <div class="section-title">聖意</div>
+      <div class="sacred-meaning-content">功名遂、福祿全、訟得理、病即痊<br>桑麻熟、婚姻圓、孕生子、行人還</div>
+    </div>
+
+    <!-- FORTUNE POEM -->
+    <div class="section">
+      <div class="section-title">籤詩</div>
+      <div class="poem section-content">
+        <div class="poem-stanza">巍巍獨步向雲間，
+玉殿千官第一班，
+富貴榮華天付汝，
+福如東海壽如山。</div>
+      </div>
+    </div>
+
+    <!-- INTERPRETATION -->
+    <div class="section">
+      <div class="section-title">解籤</div>
+      <div class="interpretation-content">此籤象徵「平步青雲」，一切皆可如願實現，福祿壽喜均圓滿。強調「須要人地相當則應」，需天時、地利、人和三者合一方能無往不利。</div>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="footer-temple">天后宮</div>
+    <div class="footer-address">756 Yale Street Los Angeles, CA 90012 · (213) 680-1860</div>
+  </footer>
+</div>
+
+</body>
+</html>
