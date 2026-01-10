@@ -6,270 +6,6 @@ Generate HTML files for Batch 05 (Sticks 041-050)
 import os
 import re
 
-# Template HTML structure
-HTML_TEMPLATE = '''<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Emperor Guan Divination Reading - Stick {stick_num}</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
-  <style>
-    * {{
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }}
-
-    @page {{
-      size: letter;
-      margin: 0;
-    }}
-
-    body {{
-      font-family: 'EB Garamond', Georgia, serif;
-      font-size: 10px;
-      line-height: 1.4;
-      color: #000;
-      background: #f5f5f5;
-    }}
-
-    .page {{
-      width: 8.5in;
-      height: 11in;
-      background: white;
-      padding: 24px 60px;
-      margin: 0 auto;
-      display: flex;
-      flex-direction: column;
-      position: relative;
-    }}
-
-    @media print {{
-      body {{
-        background: white;
-      }}
-      .page {{
-        margin: 0;
-        padding: 24px 60px;
-      }}
-    }}
-
-    .header {{
-      text-align: center;
-      margin-bottom: 24px;
-      padding-top: 20px;
-    }}
-
-    .header-title {{
-      font-size: 20px;
-      font-weight: 700;
-      font-style: italic;
-      margin-bottom: 4px;
-    }}
-
-    .header-title-vn {{
-      font-size: 20px;
-      font-weight: 700;
-      font-style: italic;
-      margin-bottom: 16px;
-    }}
-
-    .stick-number {{
-      font-size: 48px;
-      font-weight: 700;
-      line-height: 1;
-    }}
-
-    .content {{
-      display: flex;
-      gap: 42px;
-      flex: 1;
-    }}
-
-    .column {{
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }}
-
-    .column-english {{
-      justify-content: flex-end;
-      padding-bottom: 52px;
-    }}
-
-    .column-vietnamese {{
-      justify-content: flex-start;
-      padding-top: 20px;
-    }}
-
-    .fortune-rating {{
-      margin-bottom: 16px;
-    }}
-
-    .fortune-rating-title {{
-      font-size: 16px;
-      font-weight: 700;
-    }}
-
-    .fortune-rating-subtitle {{
-      font-size: 12px;
-      font-weight: 700;
-    }}
-
-    .section {{
-      margin-bottom: 4px;
-    }}
-
-    .section-title {{
-      font-size: 14px;
-      font-weight: 700;
-    }}
-
-    .section-content {{
-      font-size: 12px;
-      font-weight: 400;
-    }}
-
-    .meaning-list {{
-      list-style: disc;
-      padding-left: 16px;
-    }}
-
-    .meaning-list li {{
-      margin-bottom: 1px;
-    }}
-
-    .meaning-label {{
-      font-weight: 700;
-    }}
-
-    .poem {{
-      font-style: normal;
-    }}
-
-    .poem-title {{
-      font-size: 14px;
-      font-weight: 700;
-      text-align: right;
-    }}
-
-    .poem-stanza {{
-      margin-bottom: 8px;
-      white-space: pre-line;
-      text-align: justify;
-      text-align-last: right;
-    }}
-
-    .interpretation-list {{
-      list-style: disc;
-      padding-left: 16px;
-    }}
-
-    .interpretation-list li {{
-      margin-bottom: 4px;
-      text-align: justify;
-      text-align-last: left;
-    }}
-
-    .footer {{
-      text-align: center;
-      padding-top: 16px;
-      margin-top: auto;
-      border-top: none;
-      padding-bottom: 20px;
-    }}
-
-    .footer-temple {{
-      font-size: 12px;
-      font-weight: 700;
-    }}
-
-    .footer-address {{
-      font-size: 12px;
-      font-weight: 400;
-    }}
-  </style>
-</head>
-<body>
-
-<div class="page">
-  <header class="header">
-    <div class="header-title">Emperor Guan Divination Reading</div>
-    <div class="header-title-vn">Linh Quẻ Quan Thánh Đế Quân</div>
-    <div class="stick-number">{stick_num}</div>
-  </header>
-
-  <main class="content">
-    <div class="column column-english">
-      <div class="fortune-rating">
-        <div class="fortune-rating-title">{en_rating}</div>
-        <div class="fortune-rating-subtitle">({en_subtitle})</div>
-      </div>
-
-      <div class="section">
-        <div class="section-title">Sacred meaning</div>
-        <ul class="meaning-list section-content">
-{en_sacred_meanings}
-        </ul>
-      </div>
-
-      <div class="section">
-        <div class="poem-title">Fortune Poem</div>
-        <div class="poem section-content">
-          <div class="poem-stanza">{en_poem}</div>
-        </div>
-      </div>
-
-      <div class="section">
-        <div class="section-title">Interpretation</div>
-        <ul class="interpretation-list section-content">
-{en_interpretation}
-        </ul>
-      </div>
-    </div>
-
-    <div class="column column-vietnamese">
-      <div class="fortune-rating">
-        <div class="fortune-rating-title">{vn_rating}</div>
-        <div class="fortune-rating-subtitle">({vn_subtitle})</div>
-      </div>
-
-      <div class="section">
-        <div class="section-title">Thánh ý</div>
-        <ul class="meaning-list section-content">
-{vn_sacred_meanings}
-        </ul>
-      </div>
-
-      <div class="section">
-        <div class="poem-title">Bài thơ quẻ</div>
-        <div class="poem section-content">
-          <div class="poem-stanza">{vn_poem}</div>
-        </div>
-      </div>
-
-      <div class="section">
-        <div class="section-title">Ý nghĩa</div>
-        <ul class="interpretation-list section-content">
-{vn_interpretation}
-        </ul>
-      </div>
-    </div>
-  </main>
-
-  <footer class="footer">
-    <div class="footer-temple">Thien Hau Temple</div>
-    <div class="footer-address">756 Yale Street Los Angeles, CA 90012 · (213) 680-1860</div>
-  </footer>
-</div>
-
-</body>
-</html>
-'''
-
 def parse_stick_data(md_file_path):
     """Parse markdown file and extract data for each stick"""
     with open(md_file_path, 'r', encoding='utf-8') as f:
@@ -364,9 +100,14 @@ def format_interpretation(text):
             html_lines.append(f'          <li>{content}</li>')
     return '\n'.join(html_lines)
 
-def generate_html(stick_data):
-    """Generate HTML for a single stick"""
-    html = HTML_TEMPLATE.format(
+def generate_html(stick_data, template_path='design_template.html'):
+    """Generate HTML for a single stick using external template"""
+    # Read the template
+    with open(template_path, 'r', encoding='utf-8') as f:
+        template = f.read()
+
+    # Replace placeholders
+    html = template.format(
         stick_num=stick_data['num'],
         en_rating=stick_data['en_rating'],
         en_subtitle=stick_data['en_subtitle'],
@@ -383,7 +124,7 @@ def generate_html(stick_data):
 
 def main():
     # Parse batch file
-    md_file = 'batch_05_sticks_041-050.md'
+    md_file = 'translation_batches/batch_05_sticks_041-050.md'
     sticks = parse_stick_data(md_file)
 
     # Create output directory
